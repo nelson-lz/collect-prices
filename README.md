@@ -10,3 +10,5 @@ para que con ésto tener un histórico de los precios de productos.
 - selenium
 - pandas
 
+=======
+# collect-prices
