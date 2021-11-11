@@ -2,6 +2,19 @@ import time
 import json
 import requests
 from bs4 import BeautifulSoup
+import datos
+
+def insertar_enlace(entity):
+    con = datos.sql_connection()
+    cursorObj = con.execute("INSERT INTO enlace(tipo, descripcion, link) VALUES(?,?,?)", [entity["tipo"], entity["descripcion"], entity["link"]])
+    con.commit()
+    con.close()
+
+def insertar_producto(entity):
+    con = datos.sql_connection()
+    cursorObj =con.execute("INSERT INTO producto(codigobarra, descripcion, marca, imagen1) VALUES(?,?,?,?)", [entity["codigobarra"], entity["descripcion"], entity["marca"], entity["imagen1"]])
+    con.commit()
+    con.close()
 
 PAGE_INDEX ="?pageindex="
 url = "https://www.stock.com.py/default.aspx"
@@ -34,9 +47,11 @@ def recorrer_pagina_categoria(link_cateogrie):
 def recolectar_links_productos(html_parseado):
     for elem in html_parseado.find_all('div', attrs={'class': 'product-item'}):
         arreglo_json= {
-            "producto":elem.h2.a.string,
+            "tipo": "producto",
+            "descripcion":elem.h2.a.string,
             "link":elem.h2.a['href']
         }
+        insertar_enlace(arreglo_json)
         enlaces_productos['enlace_producto'].append(arreglo_json)
         # e1 = enl.Enlace(elem.h2.a.string, elem.h2.a['href'])
         # enlaces_productos.append(e1)
@@ -58,9 +73,11 @@ if req.status_code == 200:
     soup = BeautifulSoup(req.text,'html.parser')
     for elem in soup.find_all('li',attrs={'class':'level3'}):
         arrreglo_json = {
-            'categoria': elem.a.string,
-            'link' : elem.a['href']
+            'tipo': 'categoria',
+            'descripcion': elem.a.string,
+            'link' : elem.a['href'],
         }
+        insertar_enlace(arrreglo_json)
         enlaces_categorias['links'].append(arrreglo_json)
 
 guardar_en_json('categorias.json',enlaces_categorias)
@@ -72,12 +89,12 @@ conteo = 0
 for enlace in enlaces_categorias.values():
     for enl in enlace:
         conteo = conteo + 1
-        if conteo > 399:
+        if conteo > 600:
             recorrer_pagina_categoria(enl['link'])
-            # if conteo > 400:
-            #     break
+        # if conteo > 399:
+        #     break
 
-guardar_en_json('productos400-620.json',enlaces_productos)
+#guardar_en_json('productos400-620.json',enlaces_productos)
 
 print("Cantidad de categorias:"+str(len(enlaces_categorias)))
 print("Cantidad de Productos:"+str(len(enlaces_productos)))

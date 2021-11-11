@@ -1,2475 +1,3093 @@
 {
     "links": [
         {
-            "categoria": "Aceites",
+            "tipo": "categoria",
+            "descripcion": "Aceites",
             "link": "https://www.stock.com.py/category/3-almacen-aderezoscondimentos-aceites.aspx"
         },
         {
-            "categoria": "Aderezos/Salsas",
+            "tipo": "categoria",
+            "descripcion": "Aderezos/Salsas",
             "link": "https://www.stock.com.py/category/4-almacen-aderezoscondimentos-aderezos.aspx"
         },
         {
-            "categoria": "Especias",
+            "tipo": "categoria",
+            "descripcion": "Especias",
             "link": "https://www.stock.com.py/category/5-almacen-aderezoscondimentos-especias.aspx"
         },
         {
-            "categoria": "Ketchup",
+            "tipo": "categoria",
+            "descripcion": "Ketchup",
             "link": "https://www.stock.com.py/category/6-almacen-aderezoscondimentos-ketchup.aspx"
         },
         {
-            "categoria": "Mayonesa",
+            "tipo": "categoria",
+            "descripcion": "Mayonesa",
             "link": "https://www.stock.com.py/category/7-almacen-aderezoscondimentos-mayonesa.aspx"
         },
         {
-            "categoria": "Mostaza",
+            "tipo": "categoria",
+            "descripcion": "Mostaza",
             "link": "https://www.stock.com.py/category/8-almacen-aderezoscondimentos-mostaza.aspx"
         },
         {
-            "categoria": "Sal",
+            "tipo": "categoria",
+            "descripcion": "Sal",
             "link": "https://www.stock.com.py/category/10-almacen-aderezoscondimentos-sal.aspx"
         },
         {
-            "categoria": "Salsa de Soja/Picantes",
+            "tipo": "categoria",
+            "descripcion": "Salsa de Soja/Picantes",
             "link": "https://www.stock.com.py/category/12-almacen-aderezoscondimentos-salsas.aspx"
         },
         {
-            "categoria": "Tempero",
+            "tipo": "categoria",
+            "descripcion": "Tempero",
             "link": "https://www.stock.com.py/category/14-almacen-aderezoscondimentos-tempero.aspx"
         },
         {
-            "categoria": "Tomatados",
+            "tipo": "categoria",
+            "descripcion": "Tomatados",
             "link": "https://www.stock.com.py/category/884-tomatados.aspx"
         },
         {
-            "categoria": "Vinagres/Otros",
+            "tipo": "categoria",
+            "descripcion": "Vinagres/Otros",
             "link": "https://www.stock.com.py/category/15-almacen-aderezoscondimentos-vinagres.aspx"
         },
         {
-            "categoria": "Arroz",
+            "tipo": "categoria",
+            "descripcion": "Arroz",
             "link": "https://www.stock.com.py/category/19-almacen-alimentos-secos-arroz.aspx"
         },
         {
-            "categoria": "Az\u00facar/Endulzantes",
+            "tipo": "categoria",
+            "descripcion": "Az\u00facar/Endulzantes",
             "link": "https://www.stock.com.py/category/852-azucarendulzantes.aspx"
         },
         {
-            "categoria": "Chocolatadas/Batidos",
+            "tipo": "categoria",
+            "descripcion": "Chocolatadas/Batidos",
             "link": "https://www.stock.com.py/category/133-chocolatadasbatidos.aspx"
         },
         {
-            "categoria": "Caldos/Sopas/Pure",
+            "tipo": "categoria",
+            "descripcion": "Caldos/Sopas/Pure",
             "link": "https://www.stock.com.py/category/27-almacen-alimentos-secos-caldos.aspx"
         },
         {
-            "categoria": "Cereales/Semillas",
+            "tipo": "categoria",
+            "descripcion": "Cereales/Semillas",
             "link": "https://www.stock.com.py/category/849-cerealessemillas.aspx"
         },
         {
-            "categoria": "Delicatessen",
+            "tipo": "categoria",
+            "descripcion": "Delicatessen",
             "link": "https://www.stock.com.py/category/850-delicatessen.aspx"
         },
         {
-            "categoria": "Dulces S\u00f3lidos",
+            "tipo": "categoria",
+            "descripcion": "Dulces S\u00f3lidos",
             "link": "https://www.stock.com.py/category/860-dulces-solidos.aspx"
         },
         {
-            "categoria": "Dulces/Mermeladas/Miel",
+            "tipo": "categoria",
+            "descripcion": "Dulces/Mermeladas/Miel",
             "link": "https://www.stock.com.py/category/863-dulcesmermeladasmiel.aspx"
         },
         {
-            "categoria": "Fideo/Lasa\u00f1a/Pasta",
+            "tipo": "categoria",
+            "descripcion": "Fideo/Lasa\u00f1a/Pasta",
             "link": "https://www.stock.com.py/category/856-fideolasanapasta.aspx"
         },
         {
-            "categoria": "Galletitas",
+            "tipo": "categoria",
+            "descripcion": "Galletitas",
             "link": "https://www.stock.com.py/category/851-galletitas.aspx"
         },
         {
-            "categoria": "Harinas / Almid\u00f3n",
+            "tipo": "categoria",
+            "descripcion": "Harinas / Almid\u00f3n",
             "link": "https://www.stock.com.py/category/960-harinas-almidon.aspx"
         },
         {
-            "categoria": "Legumbres secas",
+            "tipo": "categoria",
+            "descripcion": "Legumbres secas",
             "link": "https://www.stock.com.py/category/853-legumbres-secas.aspx"
         },
         {
-            "categoria": "Leche en Polvo/varios",
+            "tipo": "categoria",
+            "descripcion": "Leche en Polvo/varios",
             "link": "https://www.stock.com.py/category/854-leche-en-polvovarios.aspx"
         },
         {
-            "categoria": "Postres en Polvo",
+            "tipo": "categoria",
+            "descripcion": "Postres en Polvo",
             "link": "https://www.stock.com.py/category/864-postres-en-polvo.aspx"
         },
         {
-            "categoria": "Reposter\u00eda/ Pasteleria",
+            "tipo": "categoria",
+            "descripcion": "Reposter\u00eda/ Pasteleria",
             "link": "https://www.stock.com.py/category/857-reposteria-pasteleria.aspx"
         },
         {
-            "categoria": "Salsas",
+            "tipo": "categoria",
+            "descripcion": "Salsas",
             "link": "https://www.stock.com.py/category/90-almacen-alimentos-secos-salsas.aspx"
         },
         {
-            "categoria": "Fideos/F\u00e9cula",
+            "tipo": "categoria",
+            "descripcion": "Fideos/F\u00e9cula",
             "link": "https://www.stock.com.py/category/962-fideosfecula.aspx"
         },
         {
-            "categoria": "Galletitas/Postres",
+            "tipo": "categoria",
+            "descripcion": "Galletitas/Postres",
             "link": "https://www.stock.com.py/category/963-galletitaspostres.aspx"
         },
         {
-            "categoria": "Diet/Bajas Calorias",
+            "tipo": "categoria",
+            "descripcion": "Diet/Bajas Calorias",
             "link": "https://www.stock.com.py/category/990-dietbajas-calorias.aspx"
         },
         {
-            "categoria": "Frutas Enlatadas",
+            "tipo": "categoria",
+            "descripcion": "Frutas Enlatadas",
             "link": "https://www.stock.com.py/category/880-frutas-enlatadas.aspx"
         },
         {
-            "categoria": "Legumbres enlatadas",
+            "tipo": "categoria",
+            "descripcion": "Legumbres enlatadas",
             "link": "https://www.stock.com.py/category/881-legumbres-enlatadas.aspx"
         },
         {
-            "categoria": "Pat\u00e9/Picadillo/Conservas",
+            "tipo": "categoria",
+            "descripcion": "Pat\u00e9/Picadillo/Conservas",
             "link": "https://www.stock.com.py/category/874-patepicadilloconservas.aspx"
         },
         {
-            "categoria": "At\u00fan/Mariscos/Sardinas",
+            "tipo": "categoria",
+            "descripcion": "At\u00fan/Mariscos/Sardinas",
             "link": "https://www.stock.com.py/category/882-atunmariscossardinas.aspx"
         },
         {
-            "categoria": "Alfajores",
+            "tipo": "categoria",
+            "descripcion": "Alfajores",
             "link": "https://www.stock.com.py/category/967-alfajores.aspx"
         },
         {
-            "categoria": "Caramelos/Chicles",
+            "tipo": "categoria",
+            "descripcion": "Caramelos/Chicles",
             "link": "https://www.stock.com.py/category/972-carameloschicles.aspx"
         },
         {
-            "categoria": "Chocolates",
+            "tipo": "categoria",
+            "descripcion": "Chocolates",
             "link": "https://www.stock.com.py/category/968-chocolates.aspx"
         },
         {
-            "categoria": "Turrones",
+            "tipo": "categoria",
+            "descripcion": "Turrones",
             "link": "https://www.stock.com.py/category/971-turrones.aspx"
         },
         {
-            "categoria": "Caf\u00e9",
+            "tipo": "categoria",
+            "descripcion": "Caf\u00e9",
             "link": "https://www.stock.com.py/category/888-cafe.aspx"
         },
         {
-            "categoria": "T\u00e9",
+            "tipo": "categoria",
+            "descripcion": "T\u00e9",
             "link": "https://www.stock.com.py/category/889-te.aspx"
         },
         {
-            "categoria": "Yerba",
+            "tipo": "categoria",
+            "descripcion": "Yerba",
             "link": "https://www.stock.com.py/category/890-yerba.aspx"
         },
         {
-            "categoria": "Aceitunas/Champignon",
+            "tipo": "categoria",
+            "descripcion": "Aceitunas/Champignon",
             "link": "https://www.stock.com.py/category/870-aceitunaschampignon.aspx"
         },
         {
-            "categoria": "Bocaditos/ Pororo",
+            "tipo": "categoria",
+            "descripcion": "Bocaditos/ Pororo",
             "link": "https://www.stock.com.py/category/26-almacen-alimentos-secos-bocaditos.aspx"
         },
         {
-            "categoria": "Mani",
+            "tipo": "categoria",
+            "descripcion": "Mani",
             "link": "https://www.stock.com.py/category/71-almacen-alimentos-secos-mani.aspx"
         },
         {
-            "categoria": "Nachos/ Palitos Salados",
+            "tipo": "categoria",
+            "descripcion": "Nachos/ Palitos Salados",
             "link": "https://www.stock.com.py/category/76-almacen-alimentos-secos-nachos.aspx"
         },
         {
-            "categoria": "Varios snacks",
+            "tipo": "categoria",
+            "descripcion": "Varios snacks",
             "link": "https://www.stock.com.py/category/97-almacen-encurtido-otros-encurtidos.aspx"
         },
         {
-            "categoria": "Papas Fritas",
+            "tipo": "categoria",
+            "descripcion": "Papas Fritas",
             "link": "https://www.stock.com.py/category/81-almacen-alimentos-secos-papas-fritas.aspx"
         },
         {
-            "categoria": "Pepinos/Pickles",
+            "tipo": "categoria",
+            "descripcion": "Pepinos/Pickles",
             "link": "https://www.stock.com.py/category/98-almacen-encurtido-pepinos.aspx"
         },
         {
-            "categoria": "Camping",
+            "tipo": "categoria",
+            "descripcion": "Camping",
             "link": "https://www.stock.com.py/category/528-no-tradicionales-aire-libre-camping.aspx"
         },
         {
-            "categoria": "Conservadora/Champa\u00f1era",
+            "tipo": "categoria",
+            "descripcion": "Conservadora/Champa\u00f1era",
             "link": "https://www.stock.com.py/category/530-no-tradicionales-aire-libre-conservadoras.aspx"
         },
         {
-            "categoria": "Terere/Mate",
+            "tipo": "categoria",
+            "descripcion": "Terere/Mate",
             "link": "https://www.stock.com.py/category/531-no-tradicionales-aire-libre-tereremate.aspx"
         },
         {
-            "categoria": "Acces. Madera",
+            "tipo": "categoria",
+            "descripcion": "Acces. Madera",
             "link": "https://www.stock.com.py/category/151-bazar-cocina-accs-madera-pcocina.aspx"
         },
         {
-            "categoria": "Acces. Acero Inox.",
+            "tipo": "categoria",
+            "descripcion": "Acces. Acero Inox.",
             "link": "https://www.stock.com.py/category/146-bazar-cocina-acces-acero-inox-pcocina.aspx"
         },
         {
-            "categoria": "Acces. Aluminio",
+            "tipo": "categoria",
+            "descripcion": "Acces. Aluminio",
             "link": "https://www.stock.com.py/category/147-bazar-cocina-acces-aluminio-p-cocina.aspx"
         },
         {
-            "categoria": "Acces. Pl\u00e1sticos",
+            "tipo": "categoria",
+            "descripcion": "Acces. Pl\u00e1sticos",
             "link": "https://www.stock.com.py/category/154-bazar-cocina-accs-plasticos-p-cocina.aspx"
         },
         {
-            "categoria": "Acces. Tefl\u00f3n",
+            "tipo": "categoria",
+            "descripcion": "Acces. Tefl\u00f3n",
             "link": "https://www.stock.com.py/category/148-bazar-cocina-acces-teflon-pcocina.aspx"
         },
         {
-            "categoria": "Acces. Vidrios",
+            "tipo": "categoria",
+            "descripcion": "Acces. Vidrios",
             "link": "https://www.stock.com.py/category/156-bazar-cocina-accs-vidrios-pcocina.aspx"
         },
         {
-            "categoria": "Ceramica/Porcelana/Loza",
+            "tipo": "categoria",
+            "descripcion": "Ceramica/Porcelana/Loza",
             "link": "https://www.stock.com.py/category/157-bazar-cocina-ceramicaporcelanaloza.aspx"
         },
         {
-            "categoria": "Cubiertos",
+            "tipo": "categoria",
+            "descripcion": "Cubiertos",
             "link": "https://www.stock.com.py/category/158-bazar-cocina-cubiertos.aspx"
         },
         {
-            "categoria": "Utensilios",
+            "tipo": "categoria",
+            "descripcion": "Utensilios",
             "link": "https://www.stock.com.py/category/162-bazar-cocina-utensilios.aspx"
         },
         {
-            "categoria": "Decoraci\u00f3n",
+            "tipo": "categoria",
+            "descripcion": "Decoraci\u00f3n",
             "link": "https://www.stock.com.py/category/546-no-tradicionales-cotillon-cotillon-decoracion.aspx"
         },
         {
-            "categoria": "Servicio de Mesa",
+            "tipo": "categoria",
+            "descripcion": "Servicio de Mesa",
             "link": "https://www.stock.com.py/category/549-no-tradicionales-cotillon-servicio-de-mesa.aspx"
         },
         {
-            "categoria": "Vajillas Descartables",
+            "tipo": "categoria",
+            "descripcion": "Vajillas Descartables",
             "link": "https://www.stock.com.py/category/550-no-tradicionales-cotillon-vajillas-descartables.aspx"
         },
         {
-            "categoria": "Varios",
+            "tipo": "categoria",
+            "descripcion": "Varios",
             "link": "https://www.stock.com.py/category/548-no-tradicionales-cotillon-cuidado-y-manejo-de-alimentos.aspx"
         },
         {
-            "categoria": "Decoraci\u00f3n Hogar",
+            "tipo": "categoria",
+            "descripcion": "Decoraci\u00f3n Hogar",
             "link": "https://www.stock.com.py/category/975-decoracion-hogar.aspx"
         },
         {
-            "categoria": "Otros Decoraci\u00f3n",
+            "tipo": "categoria",
+            "descripcion": "Otros Decoraci\u00f3n",
             "link": "https://www.stock.com.py/category/180-bazar-decoracionregalos-otros-arts-de-decoracion.aspx"
         },
         {
-            "categoria": "Lavado/Planchado",
+            "tipo": "categoria",
+            "descripcion": "Lavado/Planchado",
             "link": "https://www.stock.com.py/category/980-lavadoplanchado.aspx"
         },
         {
-            "categoria": "Organizadores",
+            "tipo": "categoria",
+            "descripcion": "Organizadores",
             "link": "https://www.stock.com.py/category/981-organizadores.aspx"
         },
         {
-            "categoria": "Madera",
+            "tipo": "categoria",
+            "descripcion": "Madera",
             "link": "https://www.stock.com.py/category/159-bazar-cocina-madera.aspx"
         },
         {
-            "categoria": "Vidrio",
+            "tipo": "categoria",
+            "descripcion": "Vidrio",
             "link": "https://www.stock.com.py/category/163-bazar-cocina-vidrio.aspx"
         },
         {
-            "categoria": "Metal/Aluminio",
+            "tipo": "categoria",
+            "descripcion": "Metal/Aluminio",
             "link": "https://www.stock.com.py/category/160-bazar-cocina-metalaluminio.aspx"
         },
         {
-            "categoria": "Pl\u00e1stico/Melamina",
+            "tipo": "categoria",
+            "descripcion": "Pl\u00e1stico/Melamina",
             "link": "https://www.stock.com.py/category/161-bazar-cocina-plasticosmelaminas.aspx"
         },
         {
-            "categoria": "Alimentaci\u00f3n",
+            "tipo": "categoria",
+            "descripcion": "Alimentaci\u00f3n",
             "link": "https://www.stock.com.py/category/906-alimentacion.aspx"
         },
         {
-            "categoria": "Aseo",
+            "tipo": "categoria",
+            "descripcion": "Aseo",
             "link": "https://www.stock.com.py/category/215-bebes-accesorios-varios.aspx"
         },
         {
-            "categoria": "Muebles y Seguridad",
+            "tipo": "categoria",
+            "descripcion": "Muebles y Seguridad",
             "link": "https://www.stock.com.py/category/905-muebles-y-seguridad.aspx"
         },
         {
-            "categoria": "Pl\u00e1sticos",
+            "tipo": "categoria",
+            "descripcion": "Pl\u00e1sticos",
             "link": "https://www.stock.com.py/category/211-bebes-accesorios-plasticos.aspx"
         },
         {
-            "categoria": "Cereales",
+            "tipo": "categoria",
+            "descripcion": "Cereales",
             "link": "https://www.stock.com.py/category/217-bebes-alimentos-cereales.aspx"
         },
         {
-            "categoria": "Leche",
+            "tipo": "categoria",
+            "descripcion": "Leche",
             "link": "https://www.stock.com.py/category/907-leche.aspx"
         },
         {
-            "categoria": "Preparados",
+            "tipo": "categoria",
+            "descripcion": "Preparados",
             "link": "https://www.stock.com.py/category/220-bebes-alimentos-salados.aspx"
         },
         {
-            "categoria": "Aceites",
+            "tipo": "categoria",
+            "descripcion": "Aceites",
             "link": "https://www.stock.com.py/category/222-bebes-perfumeria-aceites.aspx"
         },
         {
-            "categoria": "Capilares",
+            "tipo": "categoria",
+            "descripcion": "Capilares",
             "link": "https://www.stock.com.py/category/223-bebes-perfumeria-capilares.aspx"
         },
         {
-            "categoria": "Colonias y Fragancias",
+            "tipo": "categoria",
+            "descripcion": "Colonias y Fragancias",
             "link": "https://www.stock.com.py/category/224-bebes-perfumeria-colonias-y-fragancias.aspx"
         },
         {
-            "categoria": "Cremas",
+            "tipo": "categoria",
+            "descripcion": "Cremas",
             "link": "https://www.stock.com.py/category/225-bebes-perfumeria-cremas.aspx"
         },
         {
-            "categoria": "Jabones",
+            "tipo": "categoria",
+            "descripcion": "Jabones",
             "link": "https://www.stock.com.py/category/227-bebes-perfumeria-jabones.aspx"
         },
         {
-            "categoria": "Pa\u00f1ales desechables",
+            "tipo": "categoria",
+            "descripcion": "Pa\u00f1ales desechables",
             "link": "https://www.stock.com.py/category/226-bebes-perfumeria-desechables.aspx"
         },
         {
-            "categoria": "Talco",
+            "tipo": "categoria",
+            "descripcion": "Talco",
             "link": "https://www.stock.com.py/category/229-bebes-perfumeria-talco.aspx"
         },
         {
-            "categoria": "Toallitas Humedas",
+            "tipo": "categoria",
+            "descripcion": "Toallitas Humedas",
             "link": "https://www.stock.com.py/category/230-bebes-perfumeria-toallitas-humedas.aspx"
         },
         {
-            "categoria": "Con Alcohol",
+            "tipo": "categoria",
+            "descripcion": "Con Alcohol",
             "link": "https://www.stock.com.py/category/245-bebidas-alcoholicas-aperitivos-con-alcohol.aspx"
         },
         {
-            "categoria": "Aguardientes",
+            "tipo": "categoria",
+            "descripcion": "Aguardientes",
             "link": "https://www.stock.com.py/category/244-bebidas-alcoholicas-aguardiente.aspx"
         },
         {
-            "categoria": "Cognac/ Brandie",
+            "tipo": "categoria",
+            "descripcion": "Cognac/ Brandie",
             "link": "https://www.stock.com.py/category/251-bebidas-alcoholicas-cognac-brandie.aspx"
         },
         {
-            "categoria": "Ron/Cachasa/Ca\u00f1a",
+            "tipo": "categoria",
+            "descripcion": "Ron/Cachasa/Ca\u00f1a",
             "link": "https://www.stock.com.py/category/249-bebidas-alcoholicas-cana.aspx"
         },
         {
-            "categoria": "Tequila",
+            "tipo": "categoria",
+            "descripcion": "Tequila",
             "link": "https://www.stock.com.py/category/264-bebidas-alcoholicas-tequila.aspx"
         },
         {
-            "categoria": "Vodka",
+            "tipo": "categoria",
+            "descripcion": "Vodka",
             "link": "https://www.stock.com.py/category/274-bebidas-alcoholicas-vodka.aspx"
         },
         {
-            "categoria": "Rubias",
+            "tipo": "categoria",
+            "descripcion": "Rubias",
             "link": "https://www.stock.com.py/category/247-bebidas-alcoholicas-blancas.aspx"
         },
         {
-            "categoria": "Negras",
+            "tipo": "categoria",
+            "descripcion": "Negras",
             "link": "https://www.stock.com.py/category/257-bebidas-alcoholicas-negras.aspx"
         },
         {
-            "categoria": "Vinos Espumantes",
+            "tipo": "categoria",
+            "descripcion": "Vinos Espumantes",
             "link": "https://www.stock.com.py/category/250-bebidas-alcoholicas-champagne.aspx"
         },
         {
-            "categoria": "Sidras",
+            "tipo": "categoria",
+            "descripcion": "Sidras",
             "link": "https://www.stock.com.py/category/262-bebidas-alcoholicas-sidras.aspx"
         },
         {
-            "categoria": "Cremosos",
+            "tipo": "categoria",
+            "descripcion": "Cremosos",
             "link": "https://www.stock.com.py/category/252-bebidas-alcoholicas-cremosos.aspx"
         },
         {
-            "categoria": "Normales",
+            "tipo": "categoria",
+            "descripcion": "Normales",
             "link": "https://www.stock.com.py/category/258-bebidas-alcoholicas-normales.aspx"
         },
         {
-            "categoria": "Dulces",
+            "tipo": "categoria",
+            "descripcion": "Dulces",
             "link": "https://www.stock.com.py/category/267-bebidas-alcoholicas-vinos-dulces.aspx"
         },
         {
-            "categoria": "Espumantes",
+            "tipo": "categoria",
+            "descripcion": "Espumantes",
             "link": "https://www.stock.com.py/category/268-bebidas-alcoholicas-vinos-espumantes.aspx"
         },
         {
-            "categoria": "Finos Blancos",
+            "tipo": "categoria",
+            "descripcion": "Finos Blancos",
             "link": "https://www.stock.com.py/category/269-bebidas-alcoholicas-vinos-finos-blancos.aspx"
         },
         {
-            "categoria": "Finos Rosados",
+            "tipo": "categoria",
+            "descripcion": "Finos Rosados",
             "link": "https://www.stock.com.py/category/270-bebidas-alcoholicas-vinos-finos-rosados.aspx"
         },
         {
-            "categoria": "Finos Tintos",
+            "tipo": "categoria",
+            "descripcion": "Finos Tintos",
             "link": "https://www.stock.com.py/category/271-bebidas-alcoholicas-vinos-finos-tintos.aspx"
         },
         {
-            "categoria": "Gasificados",
+            "tipo": "categoria",
+            "descripcion": "Gasificados",
             "link": "https://www.stock.com.py/category/272-bebidas-alcoholicas-vinos-gasificados.aspx"
         },
         {
-            "categoria": "Tetra",
+            "tipo": "categoria",
+            "descripcion": "Tetra",
             "link": "https://www.stock.com.py/category/273-bebidas-alcoholicas-vinos-tetra.aspx"
         },
         {
-            "categoria": "Est\u00e1ndar",
+            "tipo": "categoria",
+            "descripcion": "Est\u00e1ndar",
             "link": "https://www.stock.com.py/category/254-bebidas-alcoholicas-estandar.aspx"
         },
         {
-            "categoria": "Otros",
+            "tipo": "categoria",
+            "descripcion": "Otros",
             "link": "https://www.stock.com.py/category/265-bebidas-alcoholicas-tercera-linea.aspx"
         },
         {
-            "categoria": "Premium",
+            "tipo": "categoria",
+            "descripcion": "Premium",
             "link": "https://www.stock.com.py/category/260-bebidas-alcoholicas-premiun.aspx"
         },
         {
-            "categoria": "Aguas Mineralizadas",
+            "tipo": "categoria",
+            "descripcion": "Aguas Mineralizadas",
             "link": "https://www.stock.com.py/category/276-bebidas-no-alcoholicas-aguas-mineralizadas.aspx"
         },
         {
-            "categoria": "Aperitivos sin Alcohol",
+            "tipo": "categoria",
+            "descripcion": "Aperitivos sin Alcohol",
             "link": "https://www.stock.com.py/category/246-bebidas-alcoholicas-aperitivos-sin-alcohol.aspx"
         },
         {
-            "categoria": "Energizantes",
+            "tipo": "categoria",
+            "descripcion": "Energizantes",
             "link": "https://www.stock.com.py/category/278-bebidas-no-alcoholicas-energizantes.aspx"
         },
         {
-            "categoria": "Isotonicos",
+            "tipo": "categoria",
+            "descripcion": "Isotonicos",
             "link": "https://www.stock.com.py/category/280-bebidas-no-alcoholicas-isotonicos.aspx"
         },
         {
-            "categoria": "Light",
+            "tipo": "categoria",
+            "descripcion": "Light",
             "link": "https://www.stock.com.py/category/282-bebidas-no-alcoholicas-light.aspx"
         },
         {
-            "categoria": "Normal",
+            "tipo": "categoria",
+            "descripcion": "Normal",
             "link": "https://www.stock.com.py/category/284-bebidas-no-alcoholicas-normal.aspx"
         },
         {
-            "categoria": "Concentrados",
+            "tipo": "categoria",
+            "descripcion": "Concentrados",
             "link": "https://www.stock.com.py/category/277-bebidas-no-alcoholicas-concentrados.aspx"
         },
         {
-            "categoria": "En polvos",
+            "tipo": "categoria",
+            "descripcion": "En polvos",
             "link": "https://www.stock.com.py/category/281-bebidas-no-alcoholicas-jugos-en-polvos.aspx"
         },
         {
-            "categoria": "L\u00edquido",
+            "tipo": "categoria",
+            "descripcion": "L\u00edquido",
             "link": "https://www.stock.com.py/category/283-bebidas-no-alcoholicas-liquido.aspx"
         },
         {
-            "categoria": "Soja",
+            "tipo": "categoria",
+            "descripcion": "Soja",
             "link": "https://www.stock.com.py/category/285-bebidas-no-alcoholicas-soja.aspx"
         },
         {
-            "categoria": "Pollos",
+            "tipo": "categoria",
+            "descripcion": "Pollos",
             "link": "https://www.stock.com.py/category/618-perecedero-carnes-pollos.aspx"
         },
         {
-            "categoria": "a Granel /al Vacio",
+            "tipo": "categoria",
+            "descripcion": "a Granel /al Vacio",
             "link": "https://www.stock.com.py/category/608-perecedero-carnes-cerdo-granel.aspx"
         },
         {
-            "categoria": "Carnes a Granel",
+            "tipo": "categoria",
+            "descripcion": "Carnes a Granel",
             "link": "https://www.stock.com.py/category/605-carnes-carnes-a-granel-lomito-tapa-rabadilla-todos-los-cortes-a-domicilio.aspx"
         },
         {
-            "categoria": "Carnes al Vacio",
+            "tipo": "categoria",
+            "descripcion": "Carnes al Vacio",
             "link": "https://www.stock.com.py/category/606-perecedero-carnes-carnes-al-vacio.aspx"
         },
         {
-            "categoria": "Carnes En Bandeja",
+            "tipo": "categoria",
+            "descripcion": "Carnes En Bandeja",
             "link": "https://www.stock.com.py/category/607-perecedero-carnes-carnes-en-bandeja.aspx"
         },
         {
-            "categoria": "Menudencia Vacuna",
+            "tipo": "categoria",
+            "descripcion": "Menudencia Vacuna",
             "link": "https://www.stock.com.py/category/611-perecedero-carnes-menudencia-vacuna.aspx"
         },
         {
-            "categoria": "carne blanca/Roja",
+            "tipo": "categoria",
+            "descripcion": "carne blanca/Roja",
             "link": "https://www.stock.com.py/category/635-perecedero-congelados-a-base-de-carne-blanca.aspx"
         },
         {
-            "categoria": "Otras Comidas",
+            "tipo": "categoria",
+            "descripcion": "Otras Comidas",
             "link": "https://www.stock.com.py/category/646-perecedero-congelados-otras-comidas-preparadas.aspx"
         },
         {
-            "categoria": "Pizzas / Salchichas",
+            "tipo": "categoria",
+            "descripcion": "Pizzas / Salchichas",
             "link": "https://www.stock.com.py/category/649-perecedero-congelados-pizzas-congeladas.aspx"
         },
         {
-            "categoria": "Frutas",
+            "tipo": "categoria",
+            "descripcion": "Frutas",
             "link": "https://www.stock.com.py/category/638-perecedero-congelados-frutas-congeladas.aspx"
         },
         {
-            "categoria": "Papas",
+            "tipo": "categoria",
+            "descripcion": "Papas",
             "link": "https://www.stock.com.py/category/647-perecedero-congelados-papas-congeladas.aspx"
         },
         {
-            "categoria": "Verduras",
+            "tipo": "categoria",
+            "descripcion": "Verduras",
             "link": "https://www.stock.com.py/category/652-perecedero-congelados-verduras-congeladas.aspx"
         },
         {
-            "categoria": "de Aves",
+            "tipo": "categoria",
+            "descripcion": "de Aves",
             "link": "https://www.stock.com.py/category/639-perecedero-congelados-hamburguesa-de-aves.aspx"
         },
         {
-            "categoria": "Vacuna",
+            "tipo": "categoria",
+            "descripcion": "Vacuna",
             "link": "https://www.stock.com.py/category/640-perecedero-congelados-hamburguesa-vacuna.aspx"
         },
         {
-            "categoria": "de Pescados / de Sojas",
+            "tipo": "categoria",
+            "descripcion": "de Pescados / de Sojas",
             "link": "https://www.stock.com.py/category/641-perecedero-congelados-hamburguesas-de-pescados.aspx"
         },
         {
-            "categoria": "Mariscos",
+            "tipo": "categoria",
+            "descripcion": "Mariscos",
             "link": "https://www.stock.com.py/category/645-perecedero-congelados-mariscos-cong.aspx"
         },
         {
-            "categoria": "Pescados",
+            "tipo": "categoria",
+            "descripcion": "Pescados",
             "link": "https://www.stock.com.py/category/648-perecedero-congelados-pescados-congelados.aspx"
         },
         {
-            "categoria": "Vacuno/Aves",
+            "tipo": "categoria",
+            "descripcion": "Vacuno/Aves",
             "link": "https://www.stock.com.py/category/999-vacunoaves.aspx"
         },
         {
-            "categoria": "Placas/Cocinas",
+            "tipo": "categoria",
+            "descripcion": "Placas/Cocinas",
             "link": "https://www.stock.com.py/category/297-electrodomesticos-linea-blanca-cocinas.aspx"
         },
         {
-            "categoria": "Estufas/ Calefactores",
+            "tipo": "categoria",
+            "descripcion": "Estufas/ Calefactores",
             "link": "https://www.stock.com.py/category/298-electrodomesticos-linea-blanca-estufas-calefactores.aspx"
         },
         {
-            "categoria": "Hornos",
+            "tipo": "categoria",
+            "descripcion": "Hornos",
             "link": "https://www.stock.com.py/category/300-electrodomesticos-linea-blanca-hornos.aspx"
         },
         {
-            "categoria": "Ventiladores",
+            "tipo": "categoria",
+            "descripcion": "Ventiladores",
             "link": "https://www.stock.com.py/category/304-electrodomesticos-linea-blanca-ventiladores.aspx"
         },
         {
-            "categoria": "Planchas",
+            "tipo": "categoria",
+            "descripcion": "Planchas",
             "link": "https://www.stock.com.py/category/323-electrodomesticos-pequenos-electrodomesticos-planchas.aspx"
         },
         {
-            "categoria": "Uso Personal",
+            "tipo": "categoria",
+            "descripcion": "Uso Personal",
             "link": "https://www.stock.com.py/category/897-uso-personal.aspx"
         },
         {
-            "categoria": "Cocina",
+            "tipo": "categoria",
+            "descripcion": "Cocina",
             "link": "https://www.stock.com.py/category/898-cocina.aspx"
         },
         {
-            "categoria": "Alcohol",
+            "tipo": "categoria",
+            "descripcion": "Alcohol",
             "link": "https://www.stock.com.py/category/331-farmacia-otc-venta-libre-alcohol.aspx"
         },
         {
-            "categoria": "Algod\u00f3n/Cotonetes",
+            "tipo": "categoria",
+            "descripcion": "Algod\u00f3n/Cotonetes",
             "link": "https://www.stock.com.py/category/332-farmacia-otc-venta-libre-algodon.aspx"
         },
         {
-            "categoria": "Antis\u00e9pticos",
+            "tipo": "categoria",
+            "descripcion": "Antis\u00e9pticos",
             "link": "https://www.stock.com.py/category/335-farmacia-otc-venta-libre-antisepticos.aspx"
         },
         {
-            "categoria": "Vendas/Cintas/Ap\u00f3sitos",
+            "tipo": "categoria",
+            "descripcion": "Vendas/Cintas/Ap\u00f3sitos",
             "link": "https://www.stock.com.py/category/336-farmacia-otc-venta-libre-apositos-vendas-y-cintas.aspx"
         },
         {
-            "categoria": "A Granel",
+            "tipo": "categoria",
+            "descripcion": "A Granel",
             "link": "https://www.stock.com.py/category/655-perecedero-fiambreria-embutidos-al-despacho.aspx"
         },
         {
-            "categoria": "Envasados",
+            "tipo": "categoria",
+            "descripcion": "Envasados",
             "link": "https://www.stock.com.py/category/656-perecedero-fiambreria-embutidos-envasadosautoservic.aspx"
         },
         {
-            "categoria": "Grasas/Pates",
+            "tipo": "categoria",
+            "descripcion": "Grasas/Pates",
             "link": "https://www.stock.com.py/category/661-perecedero-fiambreria-pates.aspx"
         },
         {
-            "categoria": "A Granel",
+            "tipo": "categoria",
+            "descripcion": "A Granel",
             "link": "https://www.stock.com.py/category/658-perecedero-fiambreria-fiambres-al-despachofrescos.aspx"
         },
         {
-            "categoria": "Envasados",
+            "tipo": "categoria",
+            "descripcion": "Envasados",
             "link": "https://www.stock.com.py/category/659-perecedero-fiambreria-fiambres-envasadosautoservici.aspx"
         },
         {
-            "categoria": "Dulces a granel",
+            "tipo": "categoria",
+            "descripcion": "Dulces a granel",
             "link": "https://www.stock.com.py/category/654-perecedero-fiambreria-dulces-al-despacho.aspx"
         },
         {
-            "categoria": "Encurtidos a Granel",
+            "tipo": "categoria",
+            "descripcion": "Encurtidos a Granel",
             "link": "https://www.stock.com.py/category/657-perecedero-fiambreria-encurtidos-al-despacho.aspx"
         },
         {
-            "categoria": "Paraguay/Ricota",
+            "tipo": "categoria",
+            "descripcion": "Paraguay/Ricota",
             "link": "https://www.stock.com.py/category/945-paraguayricota.aspx"
         },
         {
-            "categoria": "Cremosos/Cuartirolo",
+            "tipo": "categoria",
+            "descripcion": "Cremosos/Cuartirolo",
             "link": "https://www.stock.com.py/category/946-cremososcuartirolo.aspx"
         },
         {
-            "categoria": "Regianito/Parmesano",
+            "tipo": "categoria",
+            "descripcion": "Regianito/Parmesano",
             "link": "https://www.stock.com.py/category/947-regianitoparmesano.aspx"
         },
         {
-            "categoria": "Especiales",
+            "tipo": "categoria",
+            "descripcion": "Especiales",
             "link": "https://www.stock.com.py/category/949-especiales.aspx"
         },
         {
-            "categoria": "Rallados",
+            "tipo": "categoria",
+            "descripcion": "Rallados",
             "link": "https://www.stock.com.py/category/728-perecedero-queseria-quesos-rallados.aspx"
         },
         {
-            "categoria": "Semi-Blandos/Sandwich",
+            "tipo": "categoria",
+            "descripcion": "Semi-Blandos/Sandwich",
             "link": "https://www.stock.com.py/category/730-perecedero-queseria-quesos-semi-blandos-env.aspx"
         },
         {
-            "categoria": "Untables Env",
+            "tipo": "categoria",
+            "descripcion": "Untables Env",
             "link": "https://www.stock.com.py/category/731-perecedero-queseria-quesos-untables-env.aspx"
         },
         {
-            "categoria": "Citricos",
+            "tipo": "categoria",
+            "descripcion": "Citricos",
             "link": "https://www.stock.com.py/category/663-perecedero-frutas-y-verduras-citricos.aspx"
         },
         {
-            "categoria": "Con Carozo/ Pulpa",
+            "tipo": "categoria",
+            "descripcion": "Con Carozo/ Pulpa",
             "link": "https://www.stock.com.py/category/664-perecedero-frutas-y-verduras-con-carozo-pulpa.aspx"
         },
         {
-            "categoria": "Exotico/ Tropical",
+            "tipo": "categoria",
+            "descripcion": "Exotico/ Tropical",
             "link": "https://www.stock.com.py/category/666-perecedero-frutas-y-verduras-exotico-tropical.aspx"
         },
         {
-            "categoria": "Otras Frutas",
+            "tipo": "categoria",
+            "descripcion": "Otras Frutas",
             "link": "https://www.stock.com.py/category/668-perecedero-frutas-y-verduras-otras-frutas.aspx"
         },
         {
-            "categoria": "Manzana/Pera",
+            "tipo": "categoria",
+            "descripcion": "Manzana/Pera",
             "link": "https://www.stock.com.py/category/670-perecedero-frutas-y-verduras-pepitas.aspx"
         },
         {
-            "categoria": "De Frutos",
+            "tipo": "categoria",
+            "descripcion": "De Frutos",
             "link": "https://www.stock.com.py/category/665-perecedero-frutas-y-verduras-de-frutos.aspx"
         },
         {
-            "categoria": "Legumbres",
+            "tipo": "categoria",
+            "descripcion": "Legumbres",
             "link": "https://www.stock.com.py/category/667-perecedero-frutas-y-verduras-legumbres.aspx"
         },
         {
-            "categoria": "Varios",
+            "tipo": "categoria",
+            "descripcion": "Varios",
             "link": "https://www.stock.com.py/category/669-perecedero-frutas-y-verduras-otras-verduras.aspx"
         },
         {
-            "categoria": "Tuberculos/ Raices",
+            "tipo": "categoria",
+            "descripcion": "Tuberculos/ Raices",
             "link": "https://www.stock.com.py/category/671-perecedero-frutas-y-verduras-tuberculos-raices.aspx"
         },
         {
-            "categoria": "Verduras De Hoja",
+            "tipo": "categoria",
+            "descripcion": "Verduras De Hoja",
             "link": "https://www.stock.com.py/category/673-perecedero-frutas-y-verduras-verduras-de-hoja.aspx"
         },
         {
-            "categoria": "de Codorniz",
+            "tipo": "categoria",
+            "descripcion": "de Codorniz",
             "link": "https://www.stock.com.py/category/675-perecedero-huevos-huevos-de-codorniz.aspx"
         },
         {
-            "categoria": "de Gallinas",
+            "tipo": "categoria",
+            "descripcion": "de Gallinas",
             "link": "https://www.stock.com.py/category/676-perecedero-huevos-huevos-de-gallinas.aspx"
         },
         {
-            "categoria": "Para Ni\u00f1as",
+            "tipo": "categoria",
+            "descripcion": "Para Ni\u00f1as",
             "link": "https://www.stock.com.py/category/394-jugueteria-jugueteria-juguetes-de-ninas.aspx"
         },
         {
-            "categoria": "Para Ni\u00f1os",
+            "tipo": "categoria",
+            "descripcion": "Para Ni\u00f1os",
             "link": "https://www.stock.com.py/category/395-jugueteria-jugueteria-juguetes-de-ninos.aspx"
         },
         {
-            "categoria": "Primera edad",
+            "tipo": "categoria",
+            "descripcion": "Primera edad",
             "link": "https://www.stock.com.py/category/400-jugueteria-jugueteria-primera-edad.aspx"
         },
         {
-            "categoria": "Rodados",
+            "tipo": "categoria",
+            "descripcion": "Rodados",
             "link": "https://www.stock.com.py/category/401-jugueteria-jugueteria-rodados.aspx"
         },
         {
-            "categoria": "Unisex",
+            "tipo": "categoria",
+            "descripcion": "Unisex",
             "link": "https://www.stock.com.py/category/396-jugueteria-jugueteria-juguetes-unisex.aspx"
         },
         {
-            "categoria": "Aire libre",
+            "tipo": "categoria",
+            "descripcion": "Aire libre",
             "link": "https://www.stock.com.py/category/391-jugueteria-jugueteria-aire-libre.aspx"
         },
         {
-            "categoria": "Educativos/ De Mesa",
+            "tipo": "categoria",
+            "descripcion": "Educativos/ De Mesa",
             "link": "https://www.stock.com.py/category/393-jugueteria-jugueteria-juegos-de-mesa-educativos.aspx"
         },
         {
-            "categoria": "Larga Vida",
+            "tipo": "categoria",
+            "descripcion": "Larga Vida",
             "link": "https://www.stock.com.py/category/678-perecedero-lacteos-bebidas-lacteas-larga-vida.aspx"
         },
         {
-            "categoria": "Refrigeradas",
+            "tipo": "categoria",
+            "descripcion": "Refrigeradas",
             "link": "https://www.stock.com.py/category/679-perecedero-lacteos-bebidas-lacteas-refrigeradas.aspx"
         },
         {
-            "categoria": "Larga Vida",
+            "tipo": "categoria",
+            "descripcion": "Larga Vida",
             "link": "https://www.stock.com.py/category/680-perecedero-lacteos-cremas-larga-vida.aspx"
         },
         {
-            "categoria": "Refrigeradas",
+            "tipo": "categoria",
+            "descripcion": "Refrigeradas",
             "link": "https://www.stock.com.py/category/681-perecedero-lacteos-cremas-refrigeradas.aspx"
         },
         {
-            "categoria": "Larga Vida",
+            "tipo": "categoria",
+            "descripcion": "Larga Vida",
             "link": "https://www.stock.com.py/category/686-perecedero-lacteos-leches-larga-vida.aspx"
         },
         {
-            "categoria": "Refrigeradas",
+            "tipo": "categoria",
+            "descripcion": "Refrigeradas",
             "link": "https://www.stock.com.py/category/687-perecedero-lacteos-leches-refrigeradas.aspx"
         },
         {
-            "categoria": "Larga Vida",
+            "tipo": "categoria",
+            "descripcion": "Larga Vida",
             "link": "https://www.stock.com.py/category/684-perecedero-lacteos-leches-choc-larga-vida.aspx"
         },
         {
-            "categoria": "Refrigeradas",
+            "tipo": "categoria",
+            "descripcion": "Refrigeradas",
             "link": "https://www.stock.com.py/category/685-perecedero-lacteos-leches-choc-refrigeradas.aspx"
         },
         {
-            "categoria": "Manteca",
+            "tipo": "categoria",
+            "descripcion": "Manteca",
             "link": "https://www.stock.com.py/category/689-perecedero-lacteos-manteca.aspx"
         },
         {
-            "categoria": "Margarina",
+            "tipo": "categoria",
+            "descripcion": "Margarina",
             "link": "https://www.stock.com.py/category/690-perecedero-lacteos-margarina.aspx"
         },
         {
-            "categoria": "Flanes",
+            "tipo": "categoria",
+            "descripcion": "Flanes",
             "link": "https://www.stock.com.py/category/682-perecedero-lacteos-flanes.aspx"
         },
         {
-            "categoria": "Gelatinas",
+            "tipo": "categoria",
+            "descripcion": "Gelatinas",
             "link": "https://www.stock.com.py/category/683-perecedero-lacteos-gelatinas.aspx"
         },
         {
-            "categoria": "Cremosos",
+            "tipo": "categoria",
+            "descripcion": "Cremosos",
             "link": "https://www.stock.com.py/category/692-perecedero-lacteos-postres-cremosos.aspx"
         },
         {
-            "categoria": "Descremados",
+            "tipo": "categoria",
+            "descripcion": "Descremados",
             "link": "https://www.stock.com.py/category/693-perecedero-lacteos-yogures-descremados.aspx"
         },
         {
-            "categoria": "Enteros",
+            "tipo": "categoria",
+            "descripcion": "Enteros",
             "link": "https://www.stock.com.py/category/694-perecedero-lacteos-yogures-enteros.aspx"
         },
         {
-            "categoria": "Bibliorato/Separadores",
+            "tipo": "categoria",
+            "descripcion": "Bibliorato/Separadores",
             "link": "https://www.stock.com.py/category/414-libreria-escolar-biblioratoseparadores.aspx"
         },
         {
-            "categoria": "Carpetas/Portafolios",
+            "tipo": "categoria",
+            "descripcion": "Carpetas/Portafolios",
             "link": "https://www.stock.com.py/category/421-libreria-escolar-chicas.aspx"
         },
         {
-            "categoria": "Etiquetas/Rotulos",
+            "tipo": "categoria",
+            "descripcion": "Etiquetas/Rotulos",
             "link": "https://www.stock.com.py/category/428-libreria-escolar-etiquetasrotulos.aspx"
         },
         {
-            "categoria": "Presill/Perfor/Sellos",
+            "tipo": "categoria",
+            "descripcion": "Presill/Perfor/Sellos",
             "link": "https://www.stock.com.py/category/445-libreria-escolar-presilladoracargasdesgramp.aspx"
         },
         {
-            "categoria": "Varios",
+            "tipo": "categoria",
+            "descripcion": "Varios",
             "link": "https://www.stock.com.py/category/451-libreria-escolar-varios.aspx"
         },
         {
-            "categoria": "Borradores",
+            "tipo": "categoria",
+            "descripcion": "Borradores",
             "link": "https://www.stock.com.py/category/418-libreria-escolar-borradores.aspx"
         },
         {
-            "categoria": "Colores/ Crayones",
+            "tipo": "categoria",
+            "descripcion": "Colores/ Crayones",
             "link": "https://www.stock.com.py/category/423-libreria-escolar-color.aspx"
         },
         {
-            "categoria": "Elementos de Pintura",
+            "tipo": "categoria",
+            "descripcion": "Elementos de Pintura",
             "link": "https://www.stock.com.py/category/427-libreria-escolar-elementos-de-pintura.aspx"
         },
         {
-            "categoria": "Marcadores/Lapices",
+            "tipo": "categoria",
+            "descripcion": "Marcadores/Lapices",
             "link": "https://www.stock.com.py/category/433-libreria-escolar-marcadores.aspx"
         },
         {
-            "categoria": "Agendas/Blocks/Diarios",
+            "tipo": "categoria",
+            "descripcion": "Agendas/Blocks/Diarios",
             "link": "https://www.stock.com.py/category/413-libreria-escolar-agendas.aspx"
         },
         {
-            "categoria": "Cuadernos",
+            "tipo": "categoria",
+            "descripcion": "Cuadernos",
             "link": "https://www.stock.com.py/category/424-libreria-escolar-comunes.aspx"
         },
         {
-            "categoria": "Libros/Diccionarios",
+            "tipo": "categoria",
+            "descripcion": "Libros/Diccionarios",
             "link": "https://www.stock.com.py/category/432-libreria-escolar-libros.aspx"
         },
         {
-            "categoria": "Merenderos/Termos/Papelera",
+            "tipo": "categoria",
+            "descripcion": "Merenderos/Termos/Papelera",
             "link": "https://www.stock.com.py/category/434-libreria-escolar-merenderostermos.aspx"
         },
         {
-            "categoria": "Papeler\u00eda/Sobres",
+            "tipo": "categoria",
+            "descripcion": "Papeler\u00eda/Sobres",
             "link": "https://www.stock.com.py/category/438-libreria-escolar-papel.aspx"
         },
         {
-            "categoria": "Pastas para Moldear",
+            "tipo": "categoria",
+            "descripcion": "Pastas para Moldear",
             "link": "https://www.stock.com.py/category/440-libreria-escolar-pastas-para-moldear.aspx"
         },
         {
-            "categoria": "Adultos",
+            "tipo": "categoria",
+            "descripcion": "Adultos",
             "link": "https://www.stock.com.py/category/403-libreria-adultos.aspx"
         },
         {
-            "categoria": "Comercial",
+            "tipo": "categoria",
+            "descripcion": "Comercial",
             "link": "https://www.stock.com.py/category/407-libreria-comercial.aspx"
         },
         {
-            "categoria": "Mochilas/Bolsos",
+            "tipo": "categoria",
+            "descripcion": "Mochilas/Bolsos",
             "link": "https://www.stock.com.py/category/420-libreria-escolar-cartucheras.aspx"
         },
         {
-            "categoria": "Regalos",
+            "tipo": "categoria",
+            "descripcion": "Regalos",
             "link": "https://www.stock.com.py/category/453-libreria-hogar-varios.aspx"
         },
         {
-            "categoria": "Cepillos",
+            "tipo": "categoria",
+            "descripcion": "Cepillos",
             "link": "https://www.stock.com.py/category/460-limpieza-hogar-cepillos-limpiadores.aspx"
         },
         {
-            "categoria": "Escobas/Escurridores/Palitas",
+            "tipo": "categoria",
+            "descripcion": "Escobas/Escurridores/Palitas",
             "link": "https://www.stock.com.py/category/466-limpieza-hogar-escobas.aspx"
         },
         {
-            "categoria": "Esponjas/Lanas",
+            "tipo": "categoria",
+            "descripcion": "Esponjas/Lanas",
             "link": "https://www.stock.com.py/category/469-limpieza-hogar-esponjas.aspx"
         },
         {
-            "categoria": "Guantes",
+            "tipo": "categoria",
+            "descripcion": "Guantes",
             "link": "https://www.stock.com.py/category/470-limpieza-hogar-guantes-de-latex.aspx"
         },
         {
-            "categoria": "Plumeros",
+            "tipo": "categoria",
+            "descripcion": "Plumeros",
             "link": "https://www.stock.com.py/category/490-limpieza-hogar-plumeros.aspx"
         },
         {
-            "categoria": "Rejillas/Trapos de Piso",
+            "tipo": "categoria",
+            "descripcion": "Rejillas/Trapos de Piso",
             "link": "https://www.stock.com.py/category/488-limpieza-hogar-panosfranelarejillas.aspx"
         },
         {
-            "categoria": "Bolsas/Basureros",
+            "tipo": "categoria",
+            "descripcion": "Bolsas/Basureros",
             "link": "https://www.stock.com.py/category/459-limpieza-hogar-bolsasbasureo.aspx"
         },
         {
-            "categoria": "Desodorantes",
+            "tipo": "categoria",
+            "descripcion": "Desodorantes",
             "link": "https://www.stock.com.py/category/872-desodorantes.aspx"
         },
         {
-            "categoria": "Detergentes",
+            "tipo": "categoria",
+            "descripcion": "Detergentes",
             "link": "https://www.stock.com.py/category/873-detergentes.aspx"
         },
         {
-            "categoria": "Insecticidas",
+            "tipo": "categoria",
+            "descripcion": "Insecticidas",
             "link": "https://www.stock.com.py/category/875-insecticidas.aspx"
         },
         {
-            "categoria": "Lavandinas",
+            "tipo": "categoria",
+            "descripcion": "Lavandinas",
             "link": "https://www.stock.com.py/category/877-lavandinas.aspx"
         },
         {
-            "categoria": "Limpiadores",
+            "tipo": "categoria",
+            "descripcion": "Limpiadores",
             "link": "https://www.stock.com.py/category/876-limpiadores.aspx"
         },
         {
-            "categoria": "Papeles",
+            "tipo": "categoria",
+            "descripcion": "Papeles",
             "link": "https://www.stock.com.py/category/879-papeles.aspx"
         },
         {
-            "categoria": "Repelentes",
+            "tipo": "categoria",
+            "descripcion": "Repelentes",
             "link": "https://www.stock.com.py/category/878-repelentes.aspx"
         },
         {
-            "categoria": "Cuidado para Calzados",
+            "tipo": "categoria",
+            "descripcion": "Cuidado para Calzados",
             "link": "https://www.stock.com.py/category/502-limpieza-ropa-accesorios-p-calzados.aspx"
         },
         {
-            "categoria": "Cuidado para ropas",
+            "tipo": "categoria",
+            "descripcion": "Cuidado para ropas",
             "link": "https://www.stock.com.py/category/505-cuidado-para-ropas.aspx"
         },
         {
-            "categoria": "Jabones",
+            "tipo": "categoria",
+            "descripcion": "Jabones",
             "link": "https://www.stock.com.py/category/506-limpieza-ropa-detergente-en-polvo.aspx"
         },
         {
-            "categoria": "Planchado de Ropas",
+            "tipo": "categoria",
+            "descripcion": "Planchado de Ropas",
             "link": "https://www.stock.com.py/category/503-limpieza-ropa-aprestos-p-planchado-de-ropas.aspx"
         },
         {
-            "categoria": "Suavizantes",
+            "tipo": "categoria",
+            "descripcion": "Suavizantes",
             "link": "https://www.stock.com.py/category/511-limpieza-ropa-suavizantes.aspx"
         },
         {
-            "categoria": "Carb\u00f3n/Briquetas/Le\u00f1as",
+            "tipo": "categoria",
+            "descripcion": "Carb\u00f3n/Briquetas/Le\u00f1as",
             "link": "https://www.stock.com.py/category/540-no-tradicionales-combustibles-carbonbriquetaslenas.aspx"
         },
         {
-            "categoria": "Velas/Fosforo",
+            "tipo": "categoria",
+            "descripcion": "Velas/Fosforo",
             "link": "https://www.stock.com.py/category/950-velasfosforo.aspx"
         },
         {
-            "categoria": "Inflamables",
+            "tipo": "categoria",
+            "descripcion": "Inflamables",
             "link": "https://www.stock.com.py/category/951-inflamables.aspx"
         },
         {
-            "categoria": "Accesorios Varios",
+            "tipo": "categoria",
+            "descripcion": "Accesorios Varios",
             "link": "https://www.stock.com.py/category/554-no-tradicionales-ferreteria-accesorios-varios.aspx"
         },
         {
-            "categoria": "Adhesivos Varios",
+            "tipo": "categoria",
+            "descripcion": "Adhesivos Varios",
             "link": "https://www.stock.com.py/category/555-no-tradicionales-ferreteria-adhesivos-varios.aspx"
         },
         {
-            "categoria": "Calefacci\u00f3n hogar",
+            "tipo": "categoria",
+            "descripcion": "Calefacci\u00f3n hogar",
             "link": "https://www.stock.com.py/category/556-no-tradicionales-ferreteria-calefaccion-hogar.aspx"
         },
         {
-            "categoria": "Cerrajeria y herrajes",
+            "tipo": "categoria",
+            "descripcion": "Cerrajeria y herrajes",
             "link": "https://www.stock.com.py/category/557-no-tradicionales-ferreteria-cerrajeria-y-herrajes.aspx"
         },
         {
-            "categoria": "Herramientas/Acces.",
+            "tipo": "categoria",
+            "descripcion": "Herramientas/Acces.",
             "link": "https://www.stock.com.py/category/559-no-tradicionales-ferreteria-herramientas-manuales.aspx"
         },
         {
-            "categoria": "Pilas y Baterias",
+            "tipo": "categoria",
+            "descripcion": "Pilas y Baterias",
             "link": "https://www.stock.com.py/category/562-no-tradicionales-ferreteria-pilas-y-baterias.aspx"
         },
         {
-            "categoria": "Acces.Iluminacion",
+            "tipo": "categoria",
+            "descripcion": "Acces.Iluminacion",
             "link": "https://www.stock.com.py/category/564-no-tradicionales-iluminacionelectricidad-accesorios-de-iluminacion.aspx"
         },
         {
-            "categoria": "Focos",
+            "tipo": "categoria",
+            "descripcion": "Focos",
             "link": "https://www.stock.com.py/category/565-no-tradicionales-iluminacionelectricidad-focos.aspx"
         },
         {
-            "categoria": "Lamparas Varias",
+            "tipo": "categoria",
+            "descripcion": "Lamparas Varias",
             "link": "https://www.stock.com.py/category/566-no-tradicionales-iluminacionelectricidad-lamparas-varias.aspx"
         },
         {
-            "categoria": "Linternas/Otros",
+            "tipo": "categoria",
+            "descripcion": "Linternas/Otros",
             "link": "https://www.stock.com.py/category/567-no-tradicionales-iluminacionelectricidad-linternas.aspx"
         },
         {
-            "categoria": "Abono/Semillas",
+            "tipo": "categoria",
+            "descripcion": "Abono/Semillas",
             "link": "https://www.stock.com.py/category/574-no-tradicionales-jardineriapiscina-insumos-de-jardineria.aspx"
         },
         {
-            "categoria": "Otros Art\u00edculos",
+            "tipo": "categoria",
+            "descripcion": "Otros Art\u00edculos",
             "link": "https://www.stock.com.py/category/576-no-tradicionales-jardineriapiscina-otros-articulos-de-jardineria.aspx"
         },
         {
-            "categoria": "Plantas/Accesorios",
+            "tipo": "categoria",
+            "descripcion": "Plantas/Accesorios",
             "link": "https://www.stock.com.py/category/578-no-tradicionales-jardineriapiscina-planterasaccesorios.aspx"
         },
         {
-            "categoria": "Piscina",
+            "tipo": "categoria",
+            "descripcion": "Piscina",
             "link": "https://www.stock.com.py/category/956-piscina.aspx"
         },
         {
-            "categoria": "Accesorios de Pintura",
+            "tipo": "categoria",
+            "descripcion": "Accesorios de Pintura",
             "link": "https://www.stock.com.py/category/582-no-tradicionales-pintureria-accesorios-de-pintura.aspx"
         },
         {
-            "categoria": "Cuidado y Limpieza",
+            "tipo": "categoria",
+            "descripcion": "Cuidado y Limpieza",
             "link": "https://www.stock.com.py/category/587-no-tradicionales-rodados-cuidado-y-limpieza-externa.aspx"
         },
         {
-            "categoria": "Lubricantes/Repuestos",
+            "tipo": "categoria",
+            "descripcion": "Lubricantes/Repuestos",
             "link": "https://www.stock.com.py/category/589-no-tradicionales-rodados-lubricantes.aspx"
         },
         {
-            "categoria": "Acces.Perros/Gatos",
+            "tipo": "categoria",
+            "descripcion": "Acces.Perros/Gatos",
             "link": "https://www.stock.com.py/category/593-no-tradicionales-veterinaria-accesorios-p-perros-y-gatos.aspx"
         },
         {
-            "categoria": "Alimento de Aves",
+            "tipo": "categoria",
+            "descripcion": "Alimento de Aves",
             "link": "https://www.stock.com.py/category/594-no-tradicionales-veterinaria-alimento-de-aves.aspx"
         },
         {
-            "categoria": "Alimento de Perros",
+            "tipo": "categoria",
+            "descripcion": "Alimento de Perros",
             "link": "https://www.stock.com.py/category/595-no-tradicionales-veterinaria-alimento-de-perros.aspx"
         },
         {
-            "categoria": "Alimento para Gatos",
+            "tipo": "categoria",
+            "descripcion": "Alimento para Gatos",
             "link": "https://www.stock.com.py/category/596-no-tradicionales-veterinaria-alimento-para-gatos.aspx"
         },
         {
-            "categoria": "Varios/Mascotas",
+            "tipo": "categoria",
+            "descripcion": "Varios/Mascotas",
             "link": "https://www.stock.com.py/category/597-no-tradicionales-veterinaria-alimentos-otras-mascotas.aspx"
         },
         {
-            "categoria": "Higiene Animal",
+            "tipo": "categoria",
+            "descripcion": "Higiene Animal",
             "link": "https://www.stock.com.py/category/598-no-tradicionales-veterinaria-higiene-animal.aspx"
         },
         {
-            "categoria": "Bizcochos",
+            "tipo": "categoria",
+            "descripcion": "Bizcochos",
             "link": "https://www.stock.com.py/category/623-confiteria-biscochos.aspx"
         },
         {
-            "categoria": "Budines",
+            "tipo": "categoria",
+            "descripcion": "Budines",
             "link": "https://www.stock.com.py/category/625-confiteria-budines.aspx"
         },
         {
-            "categoria": "Masitas/Tortas/Facturas",
+            "tipo": "categoria",
+            "descripcion": "Masitas/Tortas/Facturas",
             "link": "https://www.stock.com.py/category/630-masitastortasfacturas.aspx"
         },
         {
-            "categoria": "Panes Frescos/Chipa",
+            "tipo": "categoria",
+            "descripcion": "Panes Frescos/Chipa",
             "link": "https://www.stock.com.py/category/705-perecedero-panaderia-panes-frescos.aspx"
         },
         {
-            "categoria": "Coquito/Palito/Rosq.",
+            "tipo": "categoria",
+            "descripcion": "Coquito/Palito/Rosq.",
             "link": "https://www.stock.com.py/category/710-perecedero-panaderia-secos-frescos.aspx"
         },
         {
-            "categoria": "Galleta Molida",
+            "tipo": "categoria",
+            "descripcion": "Galleta Molida",
             "link": "https://www.stock.com.py/category/698-perecedero-panaderia-galleta-molida.aspx"
         },
         {
-            "categoria": "\u00c1rabe/Tortillas/Chipas",
+            "tipo": "categoria",
+            "descripcion": "\u00c1rabe/Tortillas/Chipas",
             "link": "https://www.stock.com.py/category/701-perecedero-panaderia-pan-arabe.aspx"
         },
         {
-            "categoria": "Pan de Molde",
+            "tipo": "categoria",
+            "descripcion": "Pan de Molde",
             "link": "https://www.stock.com.py/category/702-perecedero-panaderia-pan-de-molde.aspx"
         },
         {
-            "categoria": "Panes Integrales",
+            "tipo": "categoria",
+            "descripcion": "Panes Integrales",
             "link": "https://www.stock.com.py/category/706-perecedero-panaderia-panes-integrales.aspx"
         },
         {
-            "categoria": "Pre-Pizza",
+            "tipo": "categoria",
+            "descripcion": "Pre-Pizza",
             "link": "https://www.stock.com.py/category/707-perecedero-panaderia-pre-pizza.aspx"
         },
         {
-            "categoria": "Secos",
+            "tipo": "categoria",
+            "descripcion": "Secos",
             "link": "https://www.stock.com.py/category/709-perecedero-panaderia-secos.aspx"
         },
         {
-            "categoria": "Tostadas",
+            "tipo": "categoria",
+            "descripcion": "Tostadas",
             "link": "https://www.stock.com.py/category/712-perecedero-panaderia-tostadas.aspx"
         },
         {
-            "categoria": "Lasagnas Frescas",
+            "tipo": "categoria",
+            "descripcion": "Lasagnas Frescas",
             "link": "https://www.stock.com.py/category/714-perecedero-pastas-lasagnas.aspx"
         },
         {
-            "categoria": "Tapas p/Pascualinas",
+            "tipo": "categoria",
+            "descripcion": "Tapas p/Pascualinas",
             "link": "https://www.stock.com.py/category/717-perecedero-pastas-tapas-ppascualinas.aspx"
         },
         {
-            "categoria": "Tapas para Empanadas",
+            "tipo": "categoria",
+            "descripcion": "Tapas para Empanadas",
             "link": "https://www.stock.com.py/category/718-perecedero-pastas-tapas-para-empanadas.aspx"
         },
         {
-            "categoria": "Pastas Con Relleno",
+            "tipo": "categoria",
+            "descripcion": "Pastas Con Relleno",
             "link": "https://www.stock.com.py/category/715-perecedero-pastas-pastas-con-relleno.aspx"
         },
         {
-            "categoria": "Pastas Sin Relleno",
+            "tipo": "categoria",
+            "descripcion": "Pastas Sin Relleno",
             "link": "https://www.stock.com.py/category/716-perecedero-pastas-pastas-sin-relleno.aspx"
         },
         {
-            "categoria": "Accesorios Cabello",
+            "tipo": "categoria",
+            "descripcion": "Accesorios Cabello",
             "link": "https://www.stock.com.py/category/743-perfumeria-cuidado-personal-accesorios-pcabello.aspx"
         },
         {
-            "categoria": "Acondicionadores",
+            "tipo": "categoria",
+            "descripcion": "Acondicionadores",
             "link": "https://www.stock.com.py/category/744-perfumeria-cuidado-personal-acondicionadoresenjuagues.aspx"
         },
         {
-            "categoria": "Fijadores",
+            "tipo": "categoria",
+            "descripcion": "Fijadores",
             "link": "https://www.stock.com.py/category/759-perfumeria-cuidado-personal-fijadores-capilares.aspx"
         },
         {
-            "categoria": "Shampoo",
+            "tipo": "categoria",
+            "descripcion": "Shampoo",
             "link": "https://www.stock.com.py/category/771-perfumeria-cuidado-personal-shampoo.aspx"
         },
         {
-            "categoria": "Tintes",
+            "tipo": "categoria",
+            "descripcion": "Tintes",
             "link": "https://www.stock.com.py/category/774-perfumeria-cuidado-personal-tintes-capilares.aspx"
         },
         {
-            "categoria": "Tratamientos",
+            "tipo": "categoria",
+            "descripcion": "Tratamientos",
             "link": "https://www.stock.com.py/category/777-perfumeria-cuidado-personal-tratamientos-capilares.aspx"
         },
         {
-            "categoria": "Bronceador/Protector",
+            "tipo": "categoria",
+            "descripcion": "Bronceador/Protector",
             "link": "https://www.stock.com.py/category/748-perfumeria-cuidado-personal-bronceadorprotector-solar.aspx"
         },
         {
-            "categoria": "Cremas/Aceites/Otros",
+            "tipo": "categoria",
+            "descripcion": "Cremas/Aceites/Otros",
             "link": "https://www.stock.com.py/category/751-perfumeria-cuidado-personal-cremas-corporales.aspx"
         },
         {
-            "categoria": "Cremas/T\u00f3nicos",
+            "tipo": "categoria",
+            "descripcion": "Cremas/T\u00f3nicos",
             "link": "https://www.stock.com.py/category/753-perfumeria-cuidado-personal-cremas-faciales.aspx"
         },
         {
-            "categoria": "Cremas para Manos",
+            "tipo": "categoria",
+            "descripcion": "Cremas para Manos",
             "link": "https://www.stock.com.py/category/754-perfumeria-cuidado-personal-cremas-pmanos.aspx"
         },
         {
-            "categoria": "Depiladores",
+            "tipo": "categoria",
+            "descripcion": "Depiladores",
             "link": "https://www.stock.com.py/category/755-perfumeria-cuidado-personal-depiladores.aspx"
         },
         {
-            "categoria": "Jabones",
+            "tipo": "categoria",
+            "descripcion": "Jabones",
             "link": "https://www.stock.com.py/category/761-perfumeria-cuidado-personal-jabones.aspx"
         },
         {
-            "categoria": "Talcos",
+            "tipo": "categoria",
+            "descripcion": "Talcos",
             "link": "https://www.stock.com.py/category/772-perfumeria-cuidado-personal-talcos.aspx"
         },
         {
-            "categoria": "Afeitadoras/Repuestos",
+            "tipo": "categoria",
+            "descripcion": "Afeitadoras/Repuestos",
             "link": "https://www.stock.com.py/category/745-perfumeria-cuidado-personal-afeitadoras.aspx"
         },
         {
-            "categoria": "Productos para Afeitar",
+            "tipo": "categoria",
+            "descripcion": "Productos para Afeitar",
             "link": "https://www.stock.com.py/category/767-perfumeria-cuidado-personal-productos-pafeitar.aspx"
         },
         {
-            "categoria": "Pa\u00f1ales para Adultos",
+            "tipo": "categoria",
+            "descripcion": "Pa\u00f1ales para Adultos",
             "link": "https://www.stock.com.py/category/764-perfumeria-cuidado-personal-panales-padultos.aspx"
         },
         {
-            "categoria": "Pa\u00f1uelos/Esponjas",
+            "tipo": "categoria",
+            "descripcion": "Pa\u00f1uelos/Esponjas",
             "link": "https://www.stock.com.py/category/925-panuelosesponjas.aspx"
         },
         {
-            "categoria": "Femeninos",
+            "tipo": "categoria",
+            "descripcion": "Femeninos",
             "link": "https://www.stock.com.py/category/756-perfumeria-cuidado-personal-desodorantes-femeninos.aspx"
         },
         {
-            "categoria": "Masculinos",
+            "tipo": "categoria",
+            "descripcion": "Masculinos",
             "link": "https://www.stock.com.py/category/757-perfumeria-cuidado-personal-desodorantes-masculinos.aspx"
         },
         {
-            "categoria": "Cepillos",
+            "tipo": "categoria",
+            "descripcion": "Cepillos",
             "link": "https://www.stock.com.py/category/749-perfumeria-cuidado-personal-cepillos-dentales.aspx"
         },
         {
-            "categoria": "Cremas",
+            "tipo": "categoria",
+            "descripcion": "Cremas",
             "link": "https://www.stock.com.py/category/752-perfumeria-cuidado-personal-cremas-dentales.aspx"
         },
         {
-            "categoria": "Enjuagues Bucales",
+            "tipo": "categoria",
+            "descripcion": "Enjuagues Bucales",
             "link": "https://www.stock.com.py/category/758-perfumeria-cuidado-personal-enjuagues-bucales.aspx"
         },
         {
-            "categoria": "Hilos/Sedas",
+            "tipo": "categoria",
+            "descripcion": "Hilos/Sedas",
             "link": "https://www.stock.com.py/category/760-perfumeria-cuidado-personal-hilossedas-dentales.aspx"
         },
         {
-            "categoria": "Colonias",
+            "tipo": "categoria",
+            "descripcion": "Colonias",
             "link": "https://www.stock.com.py/category/750-perfumeria-cuidado-personal-colonias.aspx"
         },
         {
-            "categoria": "Perfumes",
+            "tipo": "categoria",
+            "descripcion": "Perfumes",
             "link": "https://www.stock.com.py/category/766-perfumeria-cuidado-personal-perfumes.aspx"
         },
         {
-            "categoria": "Protectores",
+            "tipo": "categoria",
+            "descripcion": "Protectores",
             "link": "https://www.stock.com.py/category/769-perfumeria-cuidado-personal-protectore-diarios.aspx"
         },
         {
-            "categoria": "Tampones",
+            "tipo": "categoria",
+            "descripcion": "Tampones",
             "link": "https://www.stock.com.py/category/773-perfumeria-cuidado-personal-tampones.aspx"
         },
         {
-            "categoria": "Toallas Higi\u00e9nicas",
+            "tipo": "categoria",
+            "descripcion": "Toallas Higi\u00e9nicas",
             "link": "https://www.stock.com.py/category/776-perfumeria-cuidado-personal-toallas-higienicas.aspx"
         },
         {
-            "categoria": "Accesorios",
+            "tipo": "categoria",
+            "descripcion": "Accesorios",
             "link": "https://www.stock.com.py/category/734-perfumeria-cosmetica-accesorios-faciales.aspx"
         },
         {
-            "categoria": "Manicura/Pedicuro",
+            "tipo": "categoria",
+            "descripcion": "Manicura/Pedicuro",
             "link": "https://www.stock.com.py/category/735-perfumeria-cosmetica-accesorios-pmanos-y-pies.aspx"
         },
         {
-            "categoria": "Esmalte/Quitaesmalte",
+            "tipo": "categoria",
+            "descripcion": "Esmalte/Quitaesmalte",
             "link": "https://www.stock.com.py/category/736-perfumeria-cosmetica-esmalte.aspx"
         },
         {
-            "categoria": "Maquillajes/Otros",
+            "tipo": "categoria",
+            "descripcion": "Maquillajes/Otros",
             "link": "https://www.stock.com.py/category/737-perfumeria-cosmetica-maquillaje-plabios.aspx"
         },
         {
-            "categoria": "Aceites",
+            "tipo": "categoria",
+            "descripcion": "Aceites",
             "link": "https://www.stock.com.py/category/3-almacen-aderezoscondimentos-aceites.aspx"
         },
         {
-            "categoria": "Aderezos/Salsas",
+            "tipo": "categoria",
+            "descripcion": "Aderezos/Salsas",
             "link": "https://www.stock.com.py/category/4-almacen-aderezoscondimentos-aderezos.aspx"
         },
         {
-            "categoria": "Especias",
+            "tipo": "categoria",
+            "descripcion": "Especias",
             "link": "https://www.stock.com.py/category/5-almacen-aderezoscondimentos-especias.aspx"
         },
         {
-            "categoria": "Ketchup",
+            "tipo": "categoria",
+            "descripcion": "Ketchup",
             "link": "https://www.stock.com.py/category/6-almacen-aderezoscondimentos-ketchup.aspx"
         },
         {
-            "categoria": "Mayonesa",
+            "tipo": "categoria",
+            "descripcion": "Mayonesa",
             "link": "https://www.stock.com.py/category/7-almacen-aderezoscondimentos-mayonesa.aspx"
         },
         {
-            "categoria": "Mostaza",
+            "tipo": "categoria",
+            "descripcion": "Mostaza",
             "link": "https://www.stock.com.py/category/8-almacen-aderezoscondimentos-mostaza.aspx"
         },
         {
-            "categoria": "Sal",
+            "tipo": "categoria",
+            "descripcion": "Sal",
             "link": "https://www.stock.com.py/category/10-almacen-aderezoscondimentos-sal.aspx"
         },
         {
-            "categoria": "Salsa de Soja/Picantes",
+            "tipo": "categoria",
+            "descripcion": "Salsa de Soja/Picantes",
             "link": "https://www.stock.com.py/category/12-almacen-aderezoscondimentos-salsas.aspx"
         },
         {
-            "categoria": "Tempero",
+            "tipo": "categoria",
+            "descripcion": "Tempero",
             "link": "https://www.stock.com.py/category/14-almacen-aderezoscondimentos-tempero.aspx"
         },
         {
-            "categoria": "Tomatados",
+            "tipo": "categoria",
+            "descripcion": "Tomatados",
             "link": "https://www.stock.com.py/category/884-tomatados.aspx"
         },
         {
-            "categoria": "Vinagres/Otros",
+            "tipo": "categoria",
+            "descripcion": "Vinagres/Otros",
             "link": "https://www.stock.com.py/category/15-almacen-aderezoscondimentos-vinagres.aspx"
         },
         {
-            "categoria": "Arroz",
+            "tipo": "categoria",
+            "descripcion": "Arroz",
             "link": "https://www.stock.com.py/category/19-almacen-alimentos-secos-arroz.aspx"
         },
         {
-            "categoria": "Az\u00facar/Endulzantes",
+            "tipo": "categoria",
+            "descripcion": "Az\u00facar/Endulzantes",
             "link": "https://www.stock.com.py/category/852-azucarendulzantes.aspx"
         },
         {
-            "categoria": "Chocolatadas/Batidos",
+            "tipo": "categoria",
+            "descripcion": "Chocolatadas/Batidos",
             "link": "https://www.stock.com.py/category/133-chocolatadasbatidos.aspx"
         },
         {
-            "categoria": "Caldos/Sopas/Pure",
+            "tipo": "categoria",
+            "descripcion": "Caldos/Sopas/Pure",
             "link": "https://www.stock.com.py/category/27-almacen-alimentos-secos-caldos.aspx"
         },
         {
-            "categoria": "Cereales/Semillas",
+            "tipo": "categoria",
+            "descripcion": "Cereales/Semillas",
             "link": "https://www.stock.com.py/category/849-cerealessemillas.aspx"
         },
         {
-            "categoria": "Delicatessen",
+            "tipo": "categoria",
+            "descripcion": "Delicatessen",
             "link": "https://www.stock.com.py/category/850-delicatessen.aspx"
         },
         {
-            "categoria": "Dulces S\u00f3lidos",
+            "tipo": "categoria",
+            "descripcion": "Dulces S\u00f3lidos",
             "link": "https://www.stock.com.py/category/860-dulces-solidos.aspx"
         },
         {
-            "categoria": "Dulces/Mermeladas/Miel",
+            "tipo": "categoria",
+            "descripcion": "Dulces/Mermeladas/Miel",
             "link": "https://www.stock.com.py/category/863-dulcesmermeladasmiel.aspx"
         },
         {
-            "categoria": "Fideo/Lasa\u00f1a/Pasta",
+            "tipo": "categoria",
+            "descripcion": "Fideo/Lasa\u00f1a/Pasta",
             "link": "https://www.stock.com.py/category/856-fideolasanapasta.aspx"
         },
         {
-            "categoria": "Galletitas",
+            "tipo": "categoria",
+            "descripcion": "Galletitas",
             "link": "https://www.stock.com.py/category/851-galletitas.aspx"
         },
         {
-            "categoria": "Harinas / Almid\u00f3n",
+            "tipo": "categoria",
+            "descripcion": "Harinas / Almid\u00f3n",
             "link": "https://www.stock.com.py/category/960-harinas-almidon.aspx"
         },
         {
-            "categoria": "Legumbres secas",
+            "tipo": "categoria",
+            "descripcion": "Legumbres secas",
             "link": "https://www.stock.com.py/category/853-legumbres-secas.aspx"
         },
         {
-            "categoria": "Leche en Polvo/varios",
+            "tipo": "categoria",
+            "descripcion": "Leche en Polvo/varios",
             "link": "https://www.stock.com.py/category/854-leche-en-polvovarios.aspx"
         },
         {
-            "categoria": "Postres en Polvo",
+            "tipo": "categoria",
+            "descripcion": "Postres en Polvo",
             "link": "https://www.stock.com.py/category/864-postres-en-polvo.aspx"
         },
         {
-            "categoria": "Reposter\u00eda/ Pasteleria",
+            "tipo": "categoria",
+            "descripcion": "Reposter\u00eda/ Pasteleria",
             "link": "https://www.stock.com.py/category/857-reposteria-pasteleria.aspx"
         },
         {
-            "categoria": "Salsas",
+            "tipo": "categoria",
+            "descripcion": "Salsas",
             "link": "https://www.stock.com.py/category/90-almacen-alimentos-secos-salsas.aspx"
         },
         {
-            "categoria": "Fideos/F\u00e9cula",
+            "tipo": "categoria",
+            "descripcion": "Fideos/F\u00e9cula",
             "link": "https://www.stock.com.py/category/962-fideosfecula.aspx"
         },
         {
-            "categoria": "Galletitas/Postres",
+            "tipo": "categoria",
+            "descripcion": "Galletitas/Postres",
             "link": "https://www.stock.com.py/category/963-galletitaspostres.aspx"
         },
         {
-            "categoria": "Diet/Bajas Calorias",
+            "tipo": "categoria",
+            "descripcion": "Diet/Bajas Calorias",
             "link": "https://www.stock.com.py/category/990-dietbajas-calorias.aspx"
         },
         {
-            "categoria": "Frutas Enlatadas",
+            "tipo": "categoria",
+            "descripcion": "Frutas Enlatadas",
             "link": "https://www.stock.com.py/category/880-frutas-enlatadas.aspx"
         },
         {
-            "categoria": "Legumbres enlatadas",
+            "tipo": "categoria",
+            "descripcion": "Legumbres enlatadas",
             "link": "https://www.stock.com.py/category/881-legumbres-enlatadas.aspx"
         },
         {
-            "categoria": "Pat\u00e9/Picadillo/Conservas",
+            "tipo": "categoria",
+            "descripcion": "Pat\u00e9/Picadillo/Conservas",
             "link": "https://www.stock.com.py/category/874-patepicadilloconservas.aspx"
         },
         {
-            "categoria": "At\u00fan/Mariscos/Sardinas",
+            "tipo": "categoria",
+            "descripcion": "At\u00fan/Mariscos/Sardinas",
             "link": "https://www.stock.com.py/category/882-atunmariscossardinas.aspx"
         },
         {
-            "categoria": "Alfajores",
+            "tipo": "categoria",
+            "descripcion": "Alfajores",
             "link": "https://www.stock.com.py/category/967-alfajores.aspx"
         },
         {
-            "categoria": "Caramelos/Chicles",
+            "tipo": "categoria",
+            "descripcion": "Caramelos/Chicles",
             "link": "https://www.stock.com.py/category/972-carameloschicles.aspx"
         },
         {
-            "categoria": "Chocolates",
+            "tipo": "categoria",
+            "descripcion": "Chocolates",
             "link": "https://www.stock.com.py/category/968-chocolates.aspx"
         },
         {
-            "categoria": "Turrones",
+            "tipo": "categoria",
+            "descripcion": "Turrones",
             "link": "https://www.stock.com.py/category/971-turrones.aspx"
         },
         {
-            "categoria": "Caf\u00e9",
+            "tipo": "categoria",
+            "descripcion": "Caf\u00e9",
             "link": "https://www.stock.com.py/category/888-cafe.aspx"
         },
         {
-            "categoria": "T\u00e9",
+            "tipo": "categoria",
+            "descripcion": "T\u00e9",
             "link": "https://www.stock.com.py/category/889-te.aspx"
         },
         {
-            "categoria": "Yerba",
+            "tipo": "categoria",
+            "descripcion": "Yerba",
             "link": "https://www.stock.com.py/category/890-yerba.aspx"
         },
         {
-            "categoria": "Aceitunas/Champignon",
+            "tipo": "categoria",
+            "descripcion": "Aceitunas/Champignon",
             "link": "https://www.stock.com.py/category/870-aceitunaschampignon.aspx"
         },
         {
-            "categoria": "Bocaditos/ Pororo",
+            "tipo": "categoria",
+            "descripcion": "Bocaditos/ Pororo",
             "link": "https://www.stock.com.py/category/26-almacen-alimentos-secos-bocaditos.aspx"
         },
         {
-            "categoria": "Mani",
+            "tipo": "categoria",
+            "descripcion": "Mani",
             "link": "https://www.stock.com.py/category/71-almacen-alimentos-secos-mani.aspx"
         },
         {
-            "categoria": "Nachos/ Palitos Salados",
+            "tipo": "categoria",
+            "descripcion": "Nachos/ Palitos Salados",
             "link": "https://www.stock.com.py/category/76-almacen-alimentos-secos-nachos.aspx"
         },
         {
-            "categoria": "Varios snacks",
+            "tipo": "categoria",
+            "descripcion": "Varios snacks",
             "link": "https://www.stock.com.py/category/97-almacen-encurtido-otros-encurtidos.aspx"
         },
         {
-            "categoria": "Papas Fritas",
+            "tipo": "categoria",
+            "descripcion": "Papas Fritas",
             "link": "https://www.stock.com.py/category/81-almacen-alimentos-secos-papas-fritas.aspx"
         },
         {
-            "categoria": "Pepinos/Pickles",
+            "tipo": "categoria",
+            "descripcion": "Pepinos/Pickles",
             "link": "https://www.stock.com.py/category/98-almacen-encurtido-pepinos.aspx"
         },
         {
-            "categoria": "Camping",
+            "tipo": "categoria",
+            "descripcion": "Camping",
             "link": "https://www.stock.com.py/category/528-no-tradicionales-aire-libre-camping.aspx"
         },
         {
-            "categoria": "Conservadora/Champa\u00f1era",
+            "tipo": "categoria",
+            "descripcion": "Conservadora/Champa\u00f1era",
             "link": "https://www.stock.com.py/category/530-no-tradicionales-aire-libre-conservadoras.aspx"
         },
         {
-            "categoria": "Terere/Mate",
+            "tipo": "categoria",
+            "descripcion": "Terere/Mate",
             "link": "https://www.stock.com.py/category/531-no-tradicionales-aire-libre-tereremate.aspx"
         },
         {
-            "categoria": "Acces. Madera",
+            "tipo": "categoria",
+            "descripcion": "Acces. Madera",
             "link": "https://www.stock.com.py/category/151-bazar-cocina-accs-madera-pcocina.aspx"
         },
         {
-            "categoria": "Acces. Acero Inox.",
+            "tipo": "categoria",
+            "descripcion": "Acces. Acero Inox.",
             "link": "https://www.stock.com.py/category/146-bazar-cocina-acces-acero-inox-pcocina.aspx"
         },
         {
-            "categoria": "Acces. Aluminio",
+            "tipo": "categoria",
+            "descripcion": "Acces. Aluminio",
             "link": "https://www.stock.com.py/category/147-bazar-cocina-acces-aluminio-p-cocina.aspx"
         },
         {
-            "categoria": "Acces. Pl\u00e1sticos",
+            "tipo": "categoria",
+            "descripcion": "Acces. Pl\u00e1sticos",
             "link": "https://www.stock.com.py/category/154-bazar-cocina-accs-plasticos-p-cocina.aspx"
         },
         {
-            "categoria": "Acces. Tefl\u00f3n",
+            "tipo": "categoria",
+            "descripcion": "Acces. Tefl\u00f3n",
             "link": "https://www.stock.com.py/category/148-bazar-cocina-acces-teflon-pcocina.aspx"
         },
         {
-            "categoria": "Acces. Vidrios",
+            "tipo": "categoria",
+            "descripcion": "Acces. Vidrios",
             "link": "https://www.stock.com.py/category/156-bazar-cocina-accs-vidrios-pcocina.aspx"
         },
         {
-            "categoria": "Ceramica/Porcelana/Loza",
+            "tipo": "categoria",
+            "descripcion": "Ceramica/Porcelana/Loza",
             "link": "https://www.stock.com.py/category/157-bazar-cocina-ceramicaporcelanaloza.aspx"
         },
         {
-            "categoria": "Cubiertos",
+            "tipo": "categoria",
+            "descripcion": "Cubiertos",
             "link": "https://www.stock.com.py/category/158-bazar-cocina-cubiertos.aspx"
         },
         {
-            "categoria": "Utensilios",
+            "tipo": "categoria",
+            "descripcion": "Utensilios",
             "link": "https://www.stock.com.py/category/162-bazar-cocina-utensilios.aspx"
         },
         {
-            "categoria": "Decoraci\u00f3n",
+            "tipo": "categoria",
+            "descripcion": "Decoraci\u00f3n",
             "link": "https://www.stock.com.py/category/546-no-tradicionales-cotillon-cotillon-decoracion.aspx"
         },
         {
-            "categoria": "Servicio de Mesa",
+            "tipo": "categoria",
+            "descripcion": "Servicio de Mesa",
             "link": "https://www.stock.com.py/category/549-no-tradicionales-cotillon-servicio-de-mesa.aspx"
         },
         {
-            "categoria": "Vajillas Descartables",
+            "tipo": "categoria",
+            "descripcion": "Vajillas Descartables",
             "link": "https://www.stock.com.py/category/550-no-tradicionales-cotillon-vajillas-descartables.aspx"
         },
         {
-            "categoria": "Varios",
+            "tipo": "categoria",
+            "descripcion": "Varios",
             "link": "https://www.stock.com.py/category/548-no-tradicionales-cotillon-cuidado-y-manejo-de-alimentos.aspx"
         },
         {
-            "categoria": "Decoraci\u00f3n Hogar",
+            "tipo": "categoria",
+            "descripcion": "Decoraci\u00f3n Hogar",
             "link": "https://www.stock.com.py/category/975-decoracion-hogar.aspx"
         },
         {
-            "categoria": "Otros Decoraci\u00f3n",
+            "tipo": "categoria",
+            "descripcion": "Otros Decoraci\u00f3n",
             "link": "https://www.stock.com.py/category/180-bazar-decoracionregalos-otros-arts-de-decoracion.aspx"
         },
         {
-            "categoria": "Lavado/Planchado",
+            "tipo": "categoria",
+            "descripcion": "Lavado/Planchado",
             "link": "https://www.stock.com.py/category/980-lavadoplanchado.aspx"
         },
         {
-            "categoria": "Organizadores",
+            "tipo": "categoria",
+            "descripcion": "Organizadores",
             "link": "https://www.stock.com.py/category/981-organizadores.aspx"
         },
         {
-            "categoria": "Madera",
+            "tipo": "categoria",
+            "descripcion": "Madera",
             "link": "https://www.stock.com.py/category/159-bazar-cocina-madera.aspx"
         },
         {
-            "categoria": "Vidrio",
+            "tipo": "categoria",
+            "descripcion": "Vidrio",
             "link": "https://www.stock.com.py/category/163-bazar-cocina-vidrio.aspx"
         },
         {
-            "categoria": "Metal/Aluminio",
+            "tipo": "categoria",
+            "descripcion": "Metal/Aluminio",
             "link": "https://www.stock.com.py/category/160-bazar-cocina-metalaluminio.aspx"
         },
         {
-            "categoria": "Pl\u00e1stico/Melamina",
+            "tipo": "categoria",
+            "descripcion": "Pl\u00e1stico/Melamina",
             "link": "https://www.stock.com.py/category/161-bazar-cocina-plasticosmelaminas.aspx"
         },
         {
-            "categoria": "Alimentaci\u00f3n",
+            "tipo": "categoria",
+            "descripcion": "Alimentaci\u00f3n",
             "link": "https://www.stock.com.py/category/906-alimentacion.aspx"
         },
         {
-            "categoria": "Aseo",
+            "tipo": "categoria",
+            "descripcion": "Aseo",
             "link": "https://www.stock.com.py/category/215-bebes-accesorios-varios.aspx"
         },
         {
-            "categoria": "Muebles y Seguridad",
+            "tipo": "categoria",
+            "descripcion": "Muebles y Seguridad",
             "link": "https://www.stock.com.py/category/905-muebles-y-seguridad.aspx"
         },
         {
-            "categoria": "Pl\u00e1sticos",
+            "tipo": "categoria",
+            "descripcion": "Pl\u00e1sticos",
             "link": "https://www.stock.com.py/category/211-bebes-accesorios-plasticos.aspx"
         },
         {
-            "categoria": "Cereales",
+            "tipo": "categoria",
+            "descripcion": "Cereales",
             "link": "https://www.stock.com.py/category/217-bebes-alimentos-cereales.aspx"
         },
         {
-            "categoria": "Leche",
+            "tipo": "categoria",
+            "descripcion": "Leche",
             "link": "https://www.stock.com.py/category/907-leche.aspx"
         },
         {
-            "categoria": "Preparados",
+            "tipo": "categoria",
+            "descripcion": "Preparados",
             "link": "https://www.stock.com.py/category/220-bebes-alimentos-salados.aspx"
         },
         {
-            "categoria": "Aceites",
+            "tipo": "categoria",
+            "descripcion": "Aceites",
             "link": "https://www.stock.com.py/category/222-bebes-perfumeria-aceites.aspx"
         },
         {
-            "categoria": "Capilares",
+            "tipo": "categoria",
+            "descripcion": "Capilares",
             "link": "https://www.stock.com.py/category/223-bebes-perfumeria-capilares.aspx"
         },
         {
-            "categoria": "Colonias y Fragancias",
+            "tipo": "categoria",
+            "descripcion": "Colonias y Fragancias",
             "link": "https://www.stock.com.py/category/224-bebes-perfumeria-colonias-y-fragancias.aspx"
         },
         {
-            "categoria": "Cremas",
+            "tipo": "categoria",
+            "descripcion": "Cremas",
             "link": "https://www.stock.com.py/category/225-bebes-perfumeria-cremas.aspx"
         },
         {
-            "categoria": "Jabones",
+            "tipo": "categoria",
+            "descripcion": "Jabones",
             "link": "https://www.stock.com.py/category/227-bebes-perfumeria-jabones.aspx"
         },
         {
-            "categoria": "Pa\u00f1ales desechables",
+            "tipo": "categoria",
+            "descripcion": "Pa\u00f1ales desechables",
             "link": "https://www.stock.com.py/category/226-bebes-perfumeria-desechables.aspx"
         },
         {
-            "categoria": "Talco",
+            "tipo": "categoria",
+            "descripcion": "Talco",
             "link": "https://www.stock.com.py/category/229-bebes-perfumeria-talco.aspx"
         },
         {
-            "categoria": "Toallitas Humedas",
+            "tipo": "categoria",
+            "descripcion": "Toallitas Humedas",
             "link": "https://www.stock.com.py/category/230-bebes-perfumeria-toallitas-humedas.aspx"
         },
         {
-            "categoria": "Con Alcohol",
+            "tipo": "categoria",
+            "descripcion": "Con Alcohol",
             "link": "https://www.stock.com.py/category/245-bebidas-alcoholicas-aperitivos-con-alcohol.aspx"
         },
         {
-            "categoria": "Aguardientes",
+            "tipo": "categoria",
+            "descripcion": "Aguardientes",
             "link": "https://www.stock.com.py/category/244-bebidas-alcoholicas-aguardiente.aspx"
         },
         {
-            "categoria": "Cognac/ Brandie",
+            "tipo": "categoria",
+            "descripcion": "Cognac/ Brandie",
             "link": "https://www.stock.com.py/category/251-bebidas-alcoholicas-cognac-brandie.aspx"
         },
         {
-            "categoria": "Ron/Cachasa/Ca\u00f1a",
+            "tipo": "categoria",
+            "descripcion": "Ron/Cachasa/Ca\u00f1a",
             "link": "https://www.stock.com.py/category/249-bebidas-alcoholicas-cana.aspx"
         },
         {
-            "categoria": "Tequila",
+            "tipo": "categoria",
+            "descripcion": "Tequila",
             "link": "https://www.stock.com.py/category/264-bebidas-alcoholicas-tequila.aspx"
         },
         {
-            "categoria": "Vodka",
+            "tipo": "categoria",
+            "descripcion": "Vodka",
             "link": "https://www.stock.com.py/category/274-bebidas-alcoholicas-vodka.aspx"
         },
         {
-            "categoria": "Rubias",
+            "tipo": "categoria",
+            "descripcion": "Rubias",
             "link": "https://www.stock.com.py/category/247-bebidas-alcoholicas-blancas.aspx"
         },
         {
-            "categoria": "Negras",
+            "tipo": "categoria",
+            "descripcion": "Negras",
             "link": "https://www.stock.com.py/category/257-bebidas-alcoholicas-negras.aspx"
         },
         {
-            "categoria": "Vinos Espumantes",
+            "tipo": "categoria",
+            "descripcion": "Vinos Espumantes",
             "link": "https://www.stock.com.py/category/250-bebidas-alcoholicas-champagne.aspx"
         },
         {
-            "categoria": "Sidras",
+            "tipo": "categoria",
+            "descripcion": "Sidras",
             "link": "https://www.stock.com.py/category/262-bebidas-alcoholicas-sidras.aspx"
         },
         {
-            "categoria": "Cremosos",
+            "tipo": "categoria",
+            "descripcion": "Cremosos",
             "link": "https://www.stock.com.py/category/252-bebidas-alcoholicas-cremosos.aspx"
         },
         {
-            "categoria": "Normales",
+            "tipo": "categoria",
+            "descripcion": "Normales",
             "link": "https://www.stock.com.py/category/258-bebidas-alcoholicas-normales.aspx"
         },
         {
-            "categoria": "Dulces",
+            "tipo": "categoria",
+            "descripcion": "Dulces",
             "link": "https://www.stock.com.py/category/267-bebidas-alcoholicas-vinos-dulces.aspx"
         },
         {
-            "categoria": "Espumantes",
+            "tipo": "categoria",
+            "descripcion": "Espumantes",
             "link": "https://www.stock.com.py/category/268-bebidas-alcoholicas-vinos-espumantes.aspx"
         },
         {
-            "categoria": "Finos Blancos",
+            "tipo": "categoria",
+            "descripcion": "Finos Blancos",
             "link": "https://www.stock.com.py/category/269-bebidas-alcoholicas-vinos-finos-blancos.aspx"
         },
         {
-            "categoria": "Finos Rosados",
+            "tipo": "categoria",
+            "descripcion": "Finos Rosados",
             "link": "https://www.stock.com.py/category/270-bebidas-alcoholicas-vinos-finos-rosados.aspx"
         },
         {
-            "categoria": "Finos Tintos",
+            "tipo": "categoria",
+            "descripcion": "Finos Tintos",
             "link": "https://www.stock.com.py/category/271-bebidas-alcoholicas-vinos-finos-tintos.aspx"
         },
         {
-            "categoria": "Gasificados",
+            "tipo": "categoria",
+            "descripcion": "Gasificados",
             "link": "https://www.stock.com.py/category/272-bebidas-alcoholicas-vinos-gasificados.aspx"
         },
         {
-            "categoria": "Tetra",
+            "tipo": "categoria",
+            "descripcion": "Tetra",
             "link": "https://www.stock.com.py/category/273-bebidas-alcoholicas-vinos-tetra.aspx"
         },
         {
-            "categoria": "Est\u00e1ndar",
+            "tipo": "categoria",
+            "descripcion": "Est\u00e1ndar",
             "link": "https://www.stock.com.py/category/254-bebidas-alcoholicas-estandar.aspx"
         },
         {
-            "categoria": "Otros",
+            "tipo": "categoria",
+            "descripcion": "Otros",
             "link": "https://www.stock.com.py/category/265-bebidas-alcoholicas-tercera-linea.aspx"
         },
         {
-            "categoria": "Premium",
+            "tipo": "categoria",
+            "descripcion": "Premium",
             "link": "https://www.stock.com.py/category/260-bebidas-alcoholicas-premiun.aspx"
         },
         {
-            "categoria": "Aguas Mineralizadas",
+            "tipo": "categoria",
+            "descripcion": "Aguas Mineralizadas",
             "link": "https://www.stock.com.py/category/276-bebidas-no-alcoholicas-aguas-mineralizadas.aspx"
         },
         {
-            "categoria": "Aperitivos sin Alcohol",
+            "tipo": "categoria",
+            "descripcion": "Aperitivos sin Alcohol",
             "link": "https://www.stock.com.py/category/246-bebidas-alcoholicas-aperitivos-sin-alcohol.aspx"
         },
         {
-            "categoria": "Energizantes",
+            "tipo": "categoria",
+            "descripcion": "Energizantes",
             "link": "https://www.stock.com.py/category/278-bebidas-no-alcoholicas-energizantes.aspx"
         },
         {
-            "categoria": "Isotonicos",
+            "tipo": "categoria",
+            "descripcion": "Isotonicos",
             "link": "https://www.stock.com.py/category/280-bebidas-no-alcoholicas-isotonicos.aspx"
         },
         {
-            "categoria": "Light",
+            "tipo": "categoria",
+            "descripcion": "Light",
             "link": "https://www.stock.com.py/category/282-bebidas-no-alcoholicas-light.aspx"
         },
         {
-            "categoria": "Normal",
+            "tipo": "categoria",
+            "descripcion": "Normal",
             "link": "https://www.stock.com.py/category/284-bebidas-no-alcoholicas-normal.aspx"
         },
         {
-            "categoria": "Concentrados",
+            "tipo": "categoria",
+            "descripcion": "Concentrados",
             "link": "https://www.stock.com.py/category/277-bebidas-no-alcoholicas-concentrados.aspx"
         },
         {
-            "categoria": "En polvos",
+            "tipo": "categoria",
+            "descripcion": "En polvos",
             "link": "https://www.stock.com.py/category/281-bebidas-no-alcoholicas-jugos-en-polvos.aspx"
         },
         {
-            "categoria": "L\u00edquido",
+            "tipo": "categoria",
+            "descripcion": "L\u00edquido",
             "link": "https://www.stock.com.py/category/283-bebidas-no-alcoholicas-liquido.aspx"
         },
         {
-            "categoria": "Soja",
+            "tipo": "categoria",
+            "descripcion": "Soja",
             "link": "https://www.stock.com.py/category/285-bebidas-no-alcoholicas-soja.aspx"
         },
         {
-            "categoria": "Pollos",
+            "tipo": "categoria",
+            "descripcion": "Pollos",
             "link": "https://www.stock.com.py/category/618-perecedero-carnes-pollos.aspx"
         },
         {
-            "categoria": "a Granel /al Vacio",
+            "tipo": "categoria",
+            "descripcion": "a Granel /al Vacio",
             "link": "https://www.stock.com.py/category/608-perecedero-carnes-cerdo-granel.aspx"
         },
         {
-            "categoria": "Carnes a Granel",
+            "tipo": "categoria",
+            "descripcion": "Carnes a Granel",
             "link": "https://www.stock.com.py/category/605-carnes-carnes-a-granel-lomito-tapa-rabadilla-todos-los-cortes-a-domicilio.aspx"
         },
         {
-            "categoria": "Carnes al Vacio",
+            "tipo": "categoria",
+            "descripcion": "Carnes al Vacio",
             "link": "https://www.stock.com.py/category/606-perecedero-carnes-carnes-al-vacio.aspx"
         },
         {
-            "categoria": "Carnes En Bandeja",
+            "tipo": "categoria",
+            "descripcion": "Carnes En Bandeja",
             "link": "https://www.stock.com.py/category/607-perecedero-carnes-carnes-en-bandeja.aspx"
         },
         {
-            "categoria": "Menudencia Vacuna",
+            "tipo": "categoria",
+            "descripcion": "Menudencia Vacuna",
             "link": "https://www.stock.com.py/category/611-perecedero-carnes-menudencia-vacuna.aspx"
         },
         {
-            "categoria": "carne blanca/Roja",
+            "tipo": "categoria",
+            "descripcion": "carne blanca/Roja",
             "link": "https://www.stock.com.py/category/635-perecedero-congelados-a-base-de-carne-blanca.aspx"
         },
         {
-            "categoria": "Otras Comidas",
+            "tipo": "categoria",
+            "descripcion": "Otras Comidas",
             "link": "https://www.stock.com.py/category/646-perecedero-congelados-otras-comidas-preparadas.aspx"
         },
         {
-            "categoria": "Pizzas / Salchichas",
+            "tipo": "categoria",
+            "descripcion": "Pizzas / Salchichas",
             "link": "https://www.stock.com.py/category/649-perecedero-congelados-pizzas-congeladas.aspx"
         },
         {
-            "categoria": "Frutas",
+            "tipo": "categoria",
+            "descripcion": "Frutas",
             "link": "https://www.stock.com.py/category/638-perecedero-congelados-frutas-congeladas.aspx"
         },
         {
-            "categoria": "Papas",
+            "tipo": "categoria",
+            "descripcion": "Papas",
             "link": "https://www.stock.com.py/category/647-perecedero-congelados-papas-congeladas.aspx"
         },
         {
-            "categoria": "Verduras",
+            "tipo": "categoria",
+            "descripcion": "Verduras",
             "link": "https://www.stock.com.py/category/652-perecedero-congelados-verduras-congeladas.aspx"
         },
         {
-            "categoria": "de Aves",
+            "tipo": "categoria",
+            "descripcion": "de Aves",
             "link": "https://www.stock.com.py/category/639-perecedero-congelados-hamburguesa-de-aves.aspx"
         },
         {
-            "categoria": "Vacuna",
+            "tipo": "categoria",
+            "descripcion": "Vacuna",
             "link": "https://www.stock.com.py/category/640-perecedero-congelados-hamburguesa-vacuna.aspx"
         },
         {
-            "categoria": "de Pescados / de Sojas",
+            "tipo": "categoria",
+            "descripcion": "de Pescados / de Sojas",
             "link": "https://www.stock.com.py/category/641-perecedero-congelados-hamburguesas-de-pescados.aspx"
         },
         {
-            "categoria": "Mariscos",
+            "tipo": "categoria",
+            "descripcion": "Mariscos",
             "link": "https://www.stock.com.py/category/645-perecedero-congelados-mariscos-cong.aspx"
         },
         {
-            "categoria": "Pescados",
+            "tipo": "categoria",
+            "descripcion": "Pescados",
             "link": "https://www.stock.com.py/category/648-perecedero-congelados-pescados-congelados.aspx"
         },
         {
-            "categoria": "Vacuno/Aves",
+            "tipo": "categoria",
+            "descripcion": "Vacuno/Aves",
             "link": "https://www.stock.com.py/category/999-vacunoaves.aspx"
         },
         {
-            "categoria": "Placas/Cocinas",
+            "tipo": "categoria",
+            "descripcion": "Placas/Cocinas",
             "link": "https://www.stock.com.py/category/297-electrodomesticos-linea-blanca-cocinas.aspx"
         },
         {
-            "categoria": "Estufas/ Calefactores",
+            "tipo": "categoria",
+            "descripcion": "Estufas/ Calefactores",
             "link": "https://www.stock.com.py/category/298-electrodomesticos-linea-blanca-estufas-calefactores.aspx"
         },
         {
-            "categoria": "Hornos",
+            "tipo": "categoria",
+            "descripcion": "Hornos",
             "link": "https://www.stock.com.py/category/300-electrodomesticos-linea-blanca-hornos.aspx"
         },
         {
-            "categoria": "Ventiladores",
+            "tipo": "categoria",
+            "descripcion": "Ventiladores",
             "link": "https://www.stock.com.py/category/304-electrodomesticos-linea-blanca-ventiladores.aspx"
         },
         {
-            "categoria": "Planchas",
+            "tipo": "categoria",
+            "descripcion": "Planchas",
             "link": "https://www.stock.com.py/category/323-electrodomesticos-pequenos-electrodomesticos-planchas.aspx"
         },
         {
-            "categoria": "Uso Personal",
+            "tipo": "categoria",
+            "descripcion": "Uso Personal",
             "link": "https://www.stock.com.py/category/897-uso-personal.aspx"
         },
         {
-            "categoria": "Cocina",
+            "tipo": "categoria",
+            "descripcion": "Cocina",
             "link": "https://www.stock.com.py/category/898-cocina.aspx"
         },
         {
-            "categoria": "Alcohol",
+            "tipo": "categoria",
+            "descripcion": "Alcohol",
             "link": "https://www.stock.com.py/category/331-farmacia-otc-venta-libre-alcohol.aspx"
         },
         {
-            "categoria": "Algod\u00f3n/Cotonetes",
+            "tipo": "categoria",
+            "descripcion": "Algod\u00f3n/Cotonetes",
             "link": "https://www.stock.com.py/category/332-farmacia-otc-venta-libre-algodon.aspx"
         },
         {
-            "categoria": "Antis\u00e9pticos",
+            "tipo": "categoria",
+            "descripcion": "Antis\u00e9pticos",
             "link": "https://www.stock.com.py/category/335-farmacia-otc-venta-libre-antisepticos.aspx"
         },
         {
-            "categoria": "Vendas/Cintas/Ap\u00f3sitos",
+            "tipo": "categoria",
+            "descripcion": "Vendas/Cintas/Ap\u00f3sitos",
             "link": "https://www.stock.com.py/category/336-farmacia-otc-venta-libre-apositos-vendas-y-cintas.aspx"
         },
         {
-            "categoria": "A Granel",
+            "tipo": "categoria",
+            "descripcion": "A Granel",
             "link": "https://www.stock.com.py/category/655-perecedero-fiambreria-embutidos-al-despacho.aspx"
         },
         {
-            "categoria": "Envasados",
+            "tipo": "categoria",
+            "descripcion": "Envasados",
             "link": "https://www.stock.com.py/category/656-perecedero-fiambreria-embutidos-envasadosautoservic.aspx"
         },
         {
-            "categoria": "Grasas/Pates",
+            "tipo": "categoria",
+            "descripcion": "Grasas/Pates",
             "link": "https://www.stock.com.py/category/661-perecedero-fiambreria-pates.aspx"
         },
         {
-            "categoria": "A Granel",
+            "tipo": "categoria",
+            "descripcion": "A Granel",
             "link": "https://www.stock.com.py/category/658-perecedero-fiambreria-fiambres-al-despachofrescos.aspx"
         },
         {
-            "categoria": "Envasados",
+            "tipo": "categoria",
+            "descripcion": "Envasados",
             "link": "https://www.stock.com.py/category/659-perecedero-fiambreria-fiambres-envasadosautoservici.aspx"
         },
         {
-            "categoria": "Dulces a granel",
+            "tipo": "categoria",
+            "descripcion": "Dulces a granel",
             "link": "https://www.stock.com.py/category/654-perecedero-fiambreria-dulces-al-despacho.aspx"
         },
         {
-            "categoria": "Encurtidos a Granel",
+            "tipo": "categoria",
+            "descripcion": "Encurtidos a Granel",
             "link": "https://www.stock.com.py/category/657-perecedero-fiambreria-encurtidos-al-despacho.aspx"
         },
         {
-            "categoria": "Paraguay/Ricota",
+            "tipo": "categoria",
+            "descripcion": "Paraguay/Ricota",
             "link": "https://www.stock.com.py/category/945-paraguayricota.aspx"
         },
         {
-            "categoria": "Cremosos/Cuartirolo",
+            "tipo": "categoria",
+            "descripcion": "Cremosos/Cuartirolo",
             "link": "https://www.stock.com.py/category/946-cremososcuartirolo.aspx"
         },
         {
-            "categoria": "Regianito/Parmesano",
+            "tipo": "categoria",
+            "descripcion": "Regianito/Parmesano",
             "link": "https://www.stock.com.py/category/947-regianitoparmesano.aspx"
         },
         {
-            "categoria": "Especiales",
+            "tipo": "categoria",
+            "descripcion": "Especiales",
             "link": "https://www.stock.com.py/category/949-especiales.aspx"
         },
         {
-            "categoria": "Rallados",
+            "tipo": "categoria",
+            "descripcion": "Rallados",
             "link": "https://www.stock.com.py/category/728-perecedero-queseria-quesos-rallados.aspx"
         },
         {
-            "categoria": "Semi-Blandos/Sandwich",
+            "tipo": "categoria",
+            "descripcion": "Semi-Blandos/Sandwich",
             "link": "https://www.stock.com.py/category/730-perecedero-queseria-quesos-semi-blandos-env.aspx"
         },
         {
-            "categoria": "Untables Env",
+            "tipo": "categoria",
+            "descripcion": "Untables Env",
             "link": "https://www.stock.com.py/category/731-perecedero-queseria-quesos-untables-env.aspx"
         },
         {
-            "categoria": "Citricos",
+            "tipo": "categoria",
+            "descripcion": "Citricos",
             "link": "https://www.stock.com.py/category/663-perecedero-frutas-y-verduras-citricos.aspx"
         },
         {
-            "categoria": "Con Carozo/ Pulpa",
+            "tipo": "categoria",
+            "descripcion": "Con Carozo/ Pulpa",
             "link": "https://www.stock.com.py/category/664-perecedero-frutas-y-verduras-con-carozo-pulpa.aspx"
         },
         {
-            "categoria": "Exotico/ Tropical",
+            "tipo": "categoria",
+            "descripcion": "Exotico/ Tropical",
             "link": "https://www.stock.com.py/category/666-perecedero-frutas-y-verduras-exotico-tropical.aspx"
         },
         {
-            "categoria": "Otras Frutas",
+            "tipo": "categoria",
+            "descripcion": "Otras Frutas",
             "link": "https://www.stock.com.py/category/668-perecedero-frutas-y-verduras-otras-frutas.aspx"
         },
         {
-            "categoria": "Manzana/Pera",
+            "tipo": "categoria",
+            "descripcion": "Manzana/Pera",
             "link": "https://www.stock.com.py/category/670-perecedero-frutas-y-verduras-pepitas.aspx"
         },
         {
-            "categoria": "De Frutos",
+            "tipo": "categoria",
+            "descripcion": "De Frutos",
             "link": "https://www.stock.com.py/category/665-perecedero-frutas-y-verduras-de-frutos.aspx"
         },
         {
-            "categoria": "Legumbres",
+            "tipo": "categoria",
+            "descripcion": "Legumbres",
             "link": "https://www.stock.com.py/category/667-perecedero-frutas-y-verduras-legumbres.aspx"
         },
         {
-            "categoria": "Varios",
+            "tipo": "categoria",
+            "descripcion": "Varios",
             "link": "https://www.stock.com.py/category/669-perecedero-frutas-y-verduras-otras-verduras.aspx"
         },
         {
-            "categoria": "Tuberculos/ Raices",
+            "tipo": "categoria",
+            "descripcion": "Tuberculos/ Raices",
             "link": "https://www.stock.com.py/category/671-perecedero-frutas-y-verduras-tuberculos-raices.aspx"
         },
         {
-            "categoria": "Verduras De Hoja",
+            "tipo": "categoria",
+            "descripcion": "Verduras De Hoja",
             "link": "https://www.stock.com.py/category/673-perecedero-frutas-y-verduras-verduras-de-hoja.aspx"
         },
         {
-            "categoria": "de Codorniz",
+            "tipo": "categoria",
+            "descripcion": "de Codorniz",
             "link": "https://www.stock.com.py/category/675-perecedero-huevos-huevos-de-codorniz.aspx"
         },
         {
-            "categoria": "de Gallinas",
+            "tipo": "categoria",
+            "descripcion": "de Gallinas",
             "link": "https://www.stock.com.py/category/676-perecedero-huevos-huevos-de-gallinas.aspx"
         },
         {
-            "categoria": "Para Ni\u00f1as",
+            "tipo": "categoria",
+            "descripcion": "Para Ni\u00f1as",
             "link": "https://www.stock.com.py/category/394-jugueteria-jugueteria-juguetes-de-ninas.aspx"
         },
         {
-            "categoria": "Para Ni\u00f1os",
+            "tipo": "categoria",
+            "descripcion": "Para Ni\u00f1os",
             "link": "https://www.stock.com.py/category/395-jugueteria-jugueteria-juguetes-de-ninos.aspx"
         },
         {
-            "categoria": "Primera edad",
+            "tipo": "categoria",
+            "descripcion": "Primera edad",
             "link": "https://www.stock.com.py/category/400-jugueteria-jugueteria-primera-edad.aspx"
         },
         {
-            "categoria": "Rodados",
+            "tipo": "categoria",
+            "descripcion": "Rodados",
             "link": "https://www.stock.com.py/category/401-jugueteria-jugueteria-rodados.aspx"
         },
         {
-            "categoria": "Unisex",
+            "tipo": "categoria",
+            "descripcion": "Unisex",
             "link": "https://www.stock.com.py/category/396-jugueteria-jugueteria-juguetes-unisex.aspx"
         },
         {
-            "categoria": "Aire libre",
+            "tipo": "categoria",
+            "descripcion": "Aire libre",
             "link": "https://www.stock.com.py/category/391-jugueteria-jugueteria-aire-libre.aspx"
         },
         {
-            "categoria": "Educativos/ De Mesa",
+            "tipo": "categoria",
+            "descripcion": "Educativos/ De Mesa",
             "link": "https://www.stock.com.py/category/393-jugueteria-jugueteria-juegos-de-mesa-educativos.aspx"
         },
         {
-            "categoria": "Larga Vida",
+            "tipo": "categoria",
+            "descripcion": "Larga Vida",
             "link": "https://www.stock.com.py/category/678-perecedero-lacteos-bebidas-lacteas-larga-vida.aspx"
         },
         {
-            "categoria": "Refrigeradas",
+            "tipo": "categoria",
+            "descripcion": "Refrigeradas",
             "link": "https://www.stock.com.py/category/679-perecedero-lacteos-bebidas-lacteas-refrigeradas.aspx"
         },
         {
-            "categoria": "Larga Vida",
+            "tipo": "categoria",
+            "descripcion": "Larga Vida",
             "link": "https://www.stock.com.py/category/680-perecedero-lacteos-cremas-larga-vida.aspx"
         },
         {
-            "categoria": "Refrigeradas",
+            "tipo": "categoria",
+            "descripcion": "Refrigeradas",
             "link": "https://www.stock.com.py/category/681-perecedero-lacteos-cremas-refrigeradas.aspx"
         },
         {
-            "categoria": "Larga Vida",
+            "tipo": "categoria",
+            "descripcion": "Larga Vida",
             "link": "https://www.stock.com.py/category/686-perecedero-lacteos-leches-larga-vida.aspx"
         },
         {
-            "categoria": "Refrigeradas",
+            "tipo": "categoria",
+            "descripcion": "Refrigeradas",
             "link": "https://www.stock.com.py/category/687-perecedero-lacteos-leches-refrigeradas.aspx"
         },
         {
-            "categoria": "Larga Vida",
+            "tipo": "categoria",
+            "descripcion": "Larga Vida",
             "link": "https://www.stock.com.py/category/684-perecedero-lacteos-leches-choc-larga-vida.aspx"
         },
         {
-            "categoria": "Refrigeradas",
+            "tipo": "categoria",
+            "descripcion": "Refrigeradas",
             "link": "https://www.stock.com.py/category/685-perecedero-lacteos-leches-choc-refrigeradas.aspx"
         },
         {
-            "categoria": "Manteca",
+            "tipo": "categoria",
+            "descripcion": "Manteca",
             "link": "https://www.stock.com.py/category/689-perecedero-lacteos-manteca.aspx"
         },
         {
-            "categoria": "Margarina",
+            "tipo": "categoria",
+            "descripcion": "Margarina",
             "link": "https://www.stock.com.py/category/690-perecedero-lacteos-margarina.aspx"
         },
         {
-            "categoria": "Flanes",
+            "tipo": "categoria",
+            "descripcion": "Flanes",
             "link": "https://www.stock.com.py/category/682-perecedero-lacteos-flanes.aspx"
         },
         {
-            "categoria": "Gelatinas",
+            "tipo": "categoria",
+            "descripcion": "Gelatinas",
             "link": "https://www.stock.com.py/category/683-perecedero-lacteos-gelatinas.aspx"
         },
         {
-            "categoria": "Cremosos",
+            "tipo": "categoria",
+            "descripcion": "Cremosos",
             "link": "https://www.stock.com.py/category/692-perecedero-lacteos-postres-cremosos.aspx"
         },
         {
-            "categoria": "Descremados",
+            "tipo": "categoria",
+            "descripcion": "Descremados",
             "link": "https://www.stock.com.py/category/693-perecedero-lacteos-yogures-descremados.aspx"
         },
         {
-            "categoria": "Enteros",
+            "tipo": "categoria",
+            "descripcion": "Enteros",
             "link": "https://www.stock.com.py/category/694-perecedero-lacteos-yogures-enteros.aspx"
         },
         {
-            "categoria": "Bibliorato/Separadores",
+            "tipo": "categoria",
+            "descripcion": "Bibliorato/Separadores",
             "link": "https://www.stock.com.py/category/414-libreria-escolar-biblioratoseparadores.aspx"
         },
         {
-            "categoria": "Carpetas/Portafolios",
+            "tipo": "categoria",
+            "descripcion": "Carpetas/Portafolios",
             "link": "https://www.stock.com.py/category/421-libreria-escolar-chicas.aspx"
         },
         {
-            "categoria": "Etiquetas/Rotulos",
+            "tipo": "categoria",
+            "descripcion": "Etiquetas/Rotulos",
             "link": "https://www.stock.com.py/category/428-libreria-escolar-etiquetasrotulos.aspx"
         },
         {
-            "categoria": "Presill/Perfor/Sellos",
+            "tipo": "categoria",
+            "descripcion": "Presill/Perfor/Sellos",
             "link": "https://www.stock.com.py/category/445-libreria-escolar-presilladoracargasdesgramp.aspx"
         },
         {
-            "categoria": "Varios",
+            "tipo": "categoria",
+            "descripcion": "Varios",
             "link": "https://www.stock.com.py/category/451-libreria-escolar-varios.aspx"
         },
         {
-            "categoria": "Borradores",
+            "tipo": "categoria",
+            "descripcion": "Borradores",
             "link": "https://www.stock.com.py/category/418-libreria-escolar-borradores.aspx"
         },
         {
-            "categoria": "Colores/ Crayones",
+            "tipo": "categoria",
+            "descripcion": "Colores/ Crayones",
             "link": "https://www.stock.com.py/category/423-libreria-escolar-color.aspx"
         },
         {
-            "categoria": "Elementos de Pintura",
+            "tipo": "categoria",
+            "descripcion": "Elementos de Pintura",
             "link": "https://www.stock.com.py/category/427-libreria-escolar-elementos-de-pintura.aspx"
         },
         {
-            "categoria": "Marcadores/Lapices",
+            "tipo": "categoria",
+            "descripcion": "Marcadores/Lapices",
             "link": "https://www.stock.com.py/category/433-libreria-escolar-marcadores.aspx"
         },
         {
-            "categoria": "Agendas/Blocks/Diarios",
+            "tipo": "categoria",
+            "descripcion": "Agendas/Blocks/Diarios",
             "link": "https://www.stock.com.py/category/413-libreria-escolar-agendas.aspx"
         },
         {
-            "categoria": "Cuadernos",
+            "tipo": "categoria",
+            "descripcion": "Cuadernos",
             "link": "https://www.stock.com.py/category/424-libreria-escolar-comunes.aspx"
         },
         {
-            "categoria": "Libros/Diccionarios",
+            "tipo": "categoria",
+            "descripcion": "Libros/Diccionarios",
             "link": "https://www.stock.com.py/category/432-libreria-escolar-libros.aspx"
         },
         {
-            "categoria": "Merenderos/Termos/Papelera",
+            "tipo": "categoria",
+            "descripcion": "Merenderos/Termos/Papelera",
             "link": "https://www.stock.com.py/category/434-libreria-escolar-merenderostermos.aspx"
         },
         {
-            "categoria": "Papeler\u00eda/Sobres",
+            "tipo": "categoria",
+            "descripcion": "Papeler\u00eda/Sobres",
             "link": "https://www.stock.com.py/category/438-libreria-escolar-papel.aspx"
         },
         {
-            "categoria": "Pastas para Moldear",
+            "tipo": "categoria",
+            "descripcion": "Pastas para Moldear",
             "link": "https://www.stock.com.py/category/440-libreria-escolar-pastas-para-moldear.aspx"
         },
         {
-            "categoria": "Adultos",
+            "tipo": "categoria",
+            "descripcion": "Adultos",
             "link": "https://www.stock.com.py/category/403-libreria-adultos.aspx"
         },
         {
-            "categoria": "Comercial",
+            "tipo": "categoria",
+            "descripcion": "Comercial",
             "link": "https://www.stock.com.py/category/407-libreria-comercial.aspx"
         },
         {
-            "categoria": "Mochilas/Bolsos",
+            "tipo": "categoria",
+            "descripcion": "Mochilas/Bolsos",
             "link": "https://www.stock.com.py/category/420-libreria-escolar-cartucheras.aspx"
         },
         {
-            "categoria": "Regalos",
+            "tipo": "categoria",
+            "descripcion": "Regalos",
             "link": "https://www.stock.com.py/category/453-libreria-hogar-varios.aspx"
         },
         {
-            "categoria": "Cepillos",
+            "tipo": "categoria",
+            "descripcion": "Cepillos",
             "link": "https://www.stock.com.py/category/460-limpieza-hogar-cepillos-limpiadores.aspx"
         },
         {
-            "categoria": "Escobas/Escurridores/Palitas",
+            "tipo": "categoria",
+            "descripcion": "Escobas/Escurridores/Palitas",
             "link": "https://www.stock.com.py/category/466-limpieza-hogar-escobas.aspx"
         },
         {
-            "categoria": "Esponjas/Lanas",
+            "tipo": "categoria",
+            "descripcion": "Esponjas/Lanas",
             "link": "https://www.stock.com.py/category/469-limpieza-hogar-esponjas.aspx"
         },
         {
-            "categoria": "Guantes",
+            "tipo": "categoria",
+            "descripcion": "Guantes",
             "link": "https://www.stock.com.py/category/470-limpieza-hogar-guantes-de-latex.aspx"
         },
         {
-            "categoria": "Plumeros",
+            "tipo": "categoria",
+            "descripcion": "Plumeros",
             "link": "https://www.stock.com.py/category/490-limpieza-hogar-plumeros.aspx"
         },
         {
-            "categoria": "Rejillas/Trapos de Piso",
+            "tipo": "categoria",
+            "descripcion": "Rejillas/Trapos de Piso",
             "link": "https://www.stock.com.py/category/488-limpieza-hogar-panosfranelarejillas.aspx"
         },
         {
-            "categoria": "Bolsas/Basureros",
+            "tipo": "categoria",
+            "descripcion": "Bolsas/Basureros",
             "link": "https://www.stock.com.py/category/459-limpieza-hogar-bolsasbasureo.aspx"
         },
         {
-            "categoria": "Desodorantes",
+            "tipo": "categoria",
+            "descripcion": "Desodorantes",
             "link": "https://www.stock.com.py/category/872-desodorantes.aspx"
         },
         {
-            "categoria": "Detergentes",
+            "tipo": "categoria",
+            "descripcion": "Detergentes",
             "link": "https://www.stock.com.py/category/873-detergentes.aspx"
         },
         {
-            "categoria": "Insecticidas",
+            "tipo": "categoria",
+            "descripcion": "Insecticidas",
             "link": "https://www.stock.com.py/category/875-insecticidas.aspx"
         },
         {
-            "categoria": "Lavandinas",
+            "tipo": "categoria",
+            "descripcion": "Lavandinas",
             "link": "https://www.stock.com.py/category/877-lavandinas.aspx"
         },
         {
-            "categoria": "Limpiadores",
+            "tipo": "categoria",
+            "descripcion": "Limpiadores",
             "link": "https://www.stock.com.py/category/876-limpiadores.aspx"
         },
         {
-            "categoria": "Papeles",
+            "tipo": "categoria",
+            "descripcion": "Papeles",
             "link": "https://www.stock.com.py/category/879-papeles.aspx"
         },
         {
-            "categoria": "Repelentes",
+            "tipo": "categoria",
+            "descripcion": "Repelentes",
             "link": "https://www.stock.com.py/category/878-repelentes.aspx"
         },
         {
-            "categoria": "Cuidado para Calzados",
+            "tipo": "categoria",
+            "descripcion": "Cuidado para Calzados",
             "link": "https://www.stock.com.py/category/502-limpieza-ropa-accesorios-p-calzados.aspx"
         },
         {
-            "categoria": "Cuidado para ropas",
+            "tipo": "categoria",
+            "descripcion": "Cuidado para ropas",
             "link": "https://www.stock.com.py/category/505-cuidado-para-ropas.aspx"
         },
         {
-            "categoria": "Jabones",
+            "tipo": "categoria",
+            "descripcion": "Jabones",
             "link": "https://www.stock.com.py/category/506-limpieza-ropa-detergente-en-polvo.aspx"
         },
         {
-            "categoria": "Planchado de Ropas",
+            "tipo": "categoria",
+            "descripcion": "Planchado de Ropas",
             "link": "https://www.stock.com.py/category/503-limpieza-ropa-aprestos-p-planchado-de-ropas.aspx"
         },
         {
-            "categoria": "Suavizantes",
+            "tipo": "categoria",
+            "descripcion": "Suavizantes",
             "link": "https://www.stock.com.py/category/511-limpieza-ropa-suavizantes.aspx"
         },
         {
-            "categoria": "Carb\u00f3n/Briquetas/Le\u00f1as",
+            "tipo": "categoria",
+            "descripcion": "Carb\u00f3n/Briquetas/Le\u00f1as",
             "link": "https://www.stock.com.py/category/540-no-tradicionales-combustibles-carbonbriquetaslenas.aspx"
         },
         {
-            "categoria": "Velas/Fosforo",
+            "tipo": "categoria",
+            "descripcion": "Velas/Fosforo",
             "link": "https://www.stock.com.py/category/950-velasfosforo.aspx"
         },
         {
-            "categoria": "Inflamables",
+            "tipo": "categoria",
+            "descripcion": "Inflamables",
             "link": "https://www.stock.com.py/category/951-inflamables.aspx"
         },
         {
-            "categoria": "Accesorios Varios",
+            "tipo": "categoria",
+            "descripcion": "Accesorios Varios",
             "link": "https://www.stock.com.py/category/554-no-tradicionales-ferreteria-accesorios-varios.aspx"
         },
         {
-            "categoria": "Adhesivos Varios",
+            "tipo": "categoria",
+            "descripcion": "Adhesivos Varios",
             "link": "https://www.stock.com.py/category/555-no-tradicionales-ferreteria-adhesivos-varios.aspx"
         },
         {
-            "categoria": "Calefacci\u00f3n hogar",
+            "tipo": "categoria",
+            "descripcion": "Calefacci\u00f3n hogar",
             "link": "https://www.stock.com.py/category/556-no-tradicionales-ferreteria-calefaccion-hogar.aspx"
         },
         {
-            "categoria": "Cerrajeria y herrajes",
+            "tipo": "categoria",
+            "descripcion": "Cerrajeria y herrajes",
             "link": "https://www.stock.com.py/category/557-no-tradicionales-ferreteria-cerrajeria-y-herrajes.aspx"
         },
         {
-            "categoria": "Herramientas/Acces.",
+            "tipo": "categoria",
+            "descripcion": "Herramientas/Acces.",
             "link": "https://www.stock.com.py/category/559-no-tradicionales-ferreteria-herramientas-manuales.aspx"
         },
         {
-            "categoria": "Pilas y Baterias",
+            "tipo": "categoria",
+            "descripcion": "Pilas y Baterias",
             "link": "https://www.stock.com.py/category/562-no-tradicionales-ferreteria-pilas-y-baterias.aspx"
         },
         {
-            "categoria": "Acces.Iluminacion",
+            "tipo": "categoria",
+            "descripcion": "Acces.Iluminacion",
             "link": "https://www.stock.com.py/category/564-no-tradicionales-iluminacionelectricidad-accesorios-de-iluminacion.aspx"
         },
         {
-            "categoria": "Focos",
+            "tipo": "categoria",
+            "descripcion": "Focos",
             "link": "https://www.stock.com.py/category/565-no-tradicionales-iluminacionelectricidad-focos.aspx"
         },
         {
-            "categoria": "Lamparas Varias",
+            "tipo": "categoria",
+            "descripcion": "Lamparas Varias",
             "link": "https://www.stock.com.py/category/566-no-tradicionales-iluminacionelectricidad-lamparas-varias.aspx"
         },
         {
-            "categoria": "Linternas/Otros",
+            "tipo": "categoria",
+            "descripcion": "Linternas/Otros",
             "link": "https://www.stock.com.py/category/567-no-tradicionales-iluminacionelectricidad-linternas.aspx"
         },
         {
-            "categoria": "Abono/Semillas",
+            "tipo": "categoria",
+            "descripcion": "Abono/Semillas",
             "link": "https://www.stock.com.py/category/574-no-tradicionales-jardineriapiscina-insumos-de-jardineria.aspx"
         },
         {
-            "categoria": "Otros Art\u00edculos",
+            "tipo": "categoria",
+            "descripcion": "Otros Art\u00edculos",
             "link": "https://www.stock.com.py/category/576-no-tradicionales-jardineriapiscina-otros-articulos-de-jardineria.aspx"
         },
         {
-            "categoria": "Plantas/Accesorios",
+            "tipo": "categoria",
+            "descripcion": "Plantas/Accesorios",
             "link": "https://www.stock.com.py/category/578-no-tradicionales-jardineriapiscina-planterasaccesorios.aspx"
         },
         {
-            "categoria": "Piscina",
+            "tipo": "categoria",
+            "descripcion": "Piscina",
             "link": "https://www.stock.com.py/category/956-piscina.aspx"
         },
         {
-            "categoria": "Accesorios de Pintura",
+            "tipo": "categoria",
+            "descripcion": "Accesorios de Pintura",
             "link": "https://www.stock.com.py/category/582-no-tradicionales-pintureria-accesorios-de-pintura.aspx"
         },
         {
-            "categoria": "Cuidado y Limpieza",
+            "tipo": "categoria",
+            "descripcion": "Cuidado y Limpieza",
             "link": "https://www.stock.com.py/category/587-no-tradicionales-rodados-cuidado-y-limpieza-externa.aspx"
         },
         {
-            "categoria": "Lubricantes/Repuestos",
+            "tipo": "categoria",
+            "descripcion": "Lubricantes/Repuestos",
             "link": "https://www.stock.com.py/category/589-no-tradicionales-rodados-lubricantes.aspx"
         },
         {
-            "categoria": "Acces.Perros/Gatos",
+            "tipo": "categoria",
+            "descripcion": "Acces.Perros/Gatos",
             "link": "https://www.stock.com.py/category/593-no-tradicionales-veterinaria-accesorios-p-perros-y-gatos.aspx"
         },
         {
-            "categoria": "Alimento de Aves",
+            "tipo": "categoria",
+            "descripcion": "Alimento de Aves",
             "link": "https://www.stock.com.py/category/594-no-tradicionales-veterinaria-alimento-de-aves.aspx"
         },
         {
-            "categoria": "Alimento de Perros",
+            "tipo": "categoria",
+            "descripcion": "Alimento de Perros",
             "link": "https://www.stock.com.py/category/595-no-tradicionales-veterinaria-alimento-de-perros.aspx"
         },
         {
-            "categoria": "Alimento para Gatos",
+            "tipo": "categoria",
+            "descripcion": "Alimento para Gatos",
             "link": "https://www.stock.com.py/category/596-no-tradicionales-veterinaria-alimento-para-gatos.aspx"
         },
         {
-            "categoria": "Varios/Mascotas",
+            "tipo": "categoria",
+            "descripcion": "Varios/Mascotas",
             "link": "https://www.stock.com.py/category/597-no-tradicionales-veterinaria-alimentos-otras-mascotas.aspx"
         },
         {
-            "categoria": "Higiene Animal",
+            "tipo": "categoria",
+            "descripcion": "Higiene Animal",
             "link": "https://www.stock.com.py/category/598-no-tradicionales-veterinaria-higiene-animal.aspx"
         },
         {
-            "categoria": "Bizcochos",
+            "tipo": "categoria",
+            "descripcion": "Bizcochos",
             "link": "https://www.stock.com.py/category/623-confiteria-biscochos.aspx"
         },
         {
-            "categoria": "Budines",
+            "tipo": "categoria",
+            "descripcion": "Budines",
             "link": "https://www.stock.com.py/category/625-confiteria-budines.aspx"
         },
         {
-            "categoria": "Masitas/Tortas/Facturas",
+            "tipo": "categoria",
+            "descripcion": "Masitas/Tortas/Facturas",
             "link": "https://www.stock.com.py/category/630-masitastortasfacturas.aspx"
         },
         {
-            "categoria": "Panes Frescos/Chipa",
+            "tipo": "categoria",
+            "descripcion": "Panes Frescos/Chipa",
             "link": "https://www.stock.com.py/category/705-perecedero-panaderia-panes-frescos.aspx"
         },
         {
-            "categoria": "Coquito/Palito/Rosq.",
+            "tipo": "categoria",
+            "descripcion": "Coquito/Palito/Rosq.",
             "link": "https://www.stock.com.py/category/710-perecedero-panaderia-secos-frescos.aspx"
         },
         {
-            "categoria": "Galleta Molida",
+            "tipo": "categoria",
+            "descripcion": "Galleta Molida",
             "link": "https://www.stock.com.py/category/698-perecedero-panaderia-galleta-molida.aspx"
         },
         {
-            "categoria": "\u00c1rabe/Tortillas/Chipas",
+            "tipo": "categoria",
+            "descripcion": "\u00c1rabe/Tortillas/Chipas",
             "link": "https://www.stock.com.py/category/701-perecedero-panaderia-pan-arabe.aspx"
         },
         {
-            "categoria": "Pan de Molde",
+            "tipo": "categoria",
+            "descripcion": "Pan de Molde",
             "link": "https://www.stock.com.py/category/702-perecedero-panaderia-pan-de-molde.aspx"
         },
         {
-            "categoria": "Panes Integrales",
+            "tipo": "categoria",
+            "descripcion": "Panes Integrales",
             "link": "https://www.stock.com.py/category/706-perecedero-panaderia-panes-integrales.aspx"
         },
         {
-            "categoria": "Pre-Pizza",
+            "tipo": "categoria",
+            "descripcion": "Pre-Pizza",
             "link": "https://www.stock.com.py/category/707-perecedero-panaderia-pre-pizza.aspx"
         },
         {
-            "categoria": "Secos",
+            "tipo": "categoria",
+            "descripcion": "Secos",
             "link": "https://www.stock.com.py/category/709-perecedero-panaderia-secos.aspx"
         },
         {
-            "categoria": "Tostadas",
+            "tipo": "categoria",
+            "descripcion": "Tostadas",
             "link": "https://www.stock.com.py/category/712-perecedero-panaderia-tostadas.aspx"
         },
         {
-            "categoria": "Lasagnas Frescas",
+            "tipo": "categoria",
+            "descripcion": "Lasagnas Frescas",
             "link": "https://www.stock.com.py/category/714-perecedero-pastas-lasagnas.aspx"
         },
         {
-            "categoria": "Tapas p/Pascualinas",
+            "tipo": "categoria",
+            "descripcion": "Tapas p/Pascualinas",
             "link": "https://www.stock.com.py/category/717-perecedero-pastas-tapas-ppascualinas.aspx"
         },
         {
-            "categoria": "Tapas para Empanadas",
+            "tipo": "categoria",
+            "descripcion": "Tapas para Empanadas",
             "link": "https://www.stock.com.py/category/718-perecedero-pastas-tapas-para-empanadas.aspx"
         },
         {
-            "categoria": "Pastas Con Relleno",
+            "tipo": "categoria",
+            "descripcion": "Pastas Con Relleno",
             "link": "https://www.stock.com.py/category/715-perecedero-pastas-pastas-con-relleno.aspx"
         },
         {
-            "categoria": "Pastas Sin Relleno",
+            "tipo": "categoria",
+            "descripcion": "Pastas Sin Relleno",
             "link": "https://www.stock.com.py/category/716-perecedero-pastas-pastas-sin-relleno.aspx"
         },
         {
-            "categoria": "Accesorios Cabello",
+            "tipo": "categoria",
+            "descripcion": "Accesorios Cabello",
             "link": "https://www.stock.com.py/category/743-perfumeria-cuidado-personal-accesorios-pcabello.aspx"
         },
         {
-            "categoria": "Acondicionadores",
+            "tipo": "categoria",
+            "descripcion": "Acondicionadores",
             "link": "https://www.stock.com.py/category/744-perfumeria-cuidado-personal-acondicionadoresenjuagues.aspx"
         },
         {
-            "categoria": "Fijadores",
+            "tipo": "categoria",
+            "descripcion": "Fijadores",
             "link": "https://www.stock.com.py/category/759-perfumeria-cuidado-personal-fijadores-capilares.aspx"
         },
         {
-            "categoria": "Shampoo",
+            "tipo": "categoria",
+            "descripcion": "Shampoo",
             "link": "https://www.stock.com.py/category/771-perfumeria-cuidado-personal-shampoo.aspx"
         },
         {
-            "categoria": "Tintes",
+            "tipo": "categoria",
+            "descripcion": "Tintes",
             "link": "https://www.stock.com.py/category/774-perfumeria-cuidado-personal-tintes-capilares.aspx"
         },
         {
-            "categoria": "Tratamientos",
+            "tipo": "categoria",
+            "descripcion": "Tratamientos",
             "link": "https://www.stock.com.py/category/777-perfumeria-cuidado-personal-tratamientos-capilares.aspx"
         },
         {
-            "categoria": "Bronceador/Protector",
+            "tipo": "categoria",
+            "descripcion": "Bronceador/Protector",
             "link": "https://www.stock.com.py/category/748-perfumeria-cuidado-personal-bronceadorprotector-solar.aspx"
         },
         {
-            "categoria": "Cremas/Aceites/Otros",
+            "tipo": "categoria",
+            "descripcion": "Cremas/Aceites/Otros",
             "link": "https://www.stock.com.py/category/751-perfumeria-cuidado-personal-cremas-corporales.aspx"
         },
         {
-            "categoria": "Cremas/T\u00f3nicos",
+            "tipo": "categoria",
+            "descripcion": "Cremas/T\u00f3nicos",
             "link": "https://www.stock.com.py/category/753-perfumeria-cuidado-personal-cremas-faciales.aspx"
         },
         {
-            "categoria": "Cremas para Manos",
+            "tipo": "categoria",
+            "descripcion": "Cremas para Manos",
             "link": "https://www.stock.com.py/category/754-perfumeria-cuidado-personal-cremas-pmanos.aspx"
         },
         {
-            "categoria": "Depiladores",
+            "tipo": "categoria",
+            "descripcion": "Depiladores",
             "link": "https://www.stock.com.py/category/755-perfumeria-cuidado-personal-depiladores.aspx"
         },
         {
-            "categoria": "Jabones",
+            "tipo": "categoria",
+            "descripcion": "Jabones",
             "link": "https://www.stock.com.py/category/761-perfumeria-cuidado-personal-jabones.aspx"
         },
         {
-            "categoria": "Talcos",
+            "tipo": "categoria",
+            "descripcion": "Talcos",
             "link": "https://www.stock.com.py/category/772-perfumeria-cuidado-personal-talcos.aspx"
         },
         {
-            "categoria": "Afeitadoras/Repuestos",
+            "tipo": "categoria",
+            "descripcion": "Afeitadoras/Repuestos",
             "link": "https://www.stock.com.py/category/745-perfumeria-cuidado-personal-afeitadoras.aspx"
         },
         {
-            "categoria": "Productos para Afeitar",
+            "tipo": "categoria",
+            "descripcion": "Productos para Afeitar",
             "link": "https://www.stock.com.py/category/767-perfumeria-cuidado-personal-productos-pafeitar.aspx"
         },
         {
-            "categoria": "Pa\u00f1ales para Adultos",
+            "tipo": "categoria",
+            "descripcion": "Pa\u00f1ales para Adultos",
             "link": "https://www.stock.com.py/category/764-perfumeria-cuidado-personal-panales-padultos.aspx"
         },
         {
-            "categoria": "Pa\u00f1uelos/Esponjas",
+            "tipo": "categoria",
+            "descripcion": "Pa\u00f1uelos/Esponjas",
             "link": "https://www.stock.com.py/category/925-panuelosesponjas.aspx"
         },
         {
-            "categoria": "Femeninos",
+            "tipo": "categoria",
+            "descripcion": "Femeninos",
             "link": "https://www.stock.com.py/category/756-perfumeria-cuidado-personal-desodorantes-femeninos.aspx"
         },
         {
-            "categoria": "Masculinos",
+            "tipo": "categoria",
+            "descripcion": "Masculinos",
             "link": "https://www.stock.com.py/category/757-perfumeria-cuidado-personal-desodorantes-masculinos.aspx"
         },
         {
-            "categoria": "Cepillos",
+            "tipo": "categoria",
+            "descripcion": "Cepillos",
             "link": "https://www.stock.com.py/category/749-perfumeria-cuidado-personal-cepillos-dentales.aspx"
         },
         {
-            "categoria": "Cremas",
+            "tipo": "categoria",
+            "descripcion": "Cremas",
             "link": "https://www.stock.com.py/category/752-perfumeria-cuidado-personal-cremas-dentales.aspx"
         },
         {
-            "categoria": "Enjuagues Bucales",
+            "tipo": "categoria",
+            "descripcion": "Enjuagues Bucales",
             "link": "https://www.stock.com.py/category/758-perfumeria-cuidado-personal-enjuagues-bucales.aspx"
         },
         {
-            "categoria": "Hilos/Sedas",
+            "tipo": "categoria",
+            "descripcion": "Hilos/Sedas",
             "link": "https://www.stock.com.py/category/760-perfumeria-cuidado-personal-hilossedas-dentales.aspx"
         },
         {
-            "categoria": "Colonias",
+            "tipo": "categoria",
+            "descripcion": "Colonias",
             "link": "https://www.stock.com.py/category/750-perfumeria-cuidado-personal-colonias.aspx"
         },
         {
-            "categoria": "Perfumes",
+            "tipo": "categoria",
+            "descripcion": "Perfumes",
             "link": "https://www.stock.com.py/category/766-perfumeria-cuidado-personal-perfumes.aspx"
         },
         {
-            "categoria": "Protectores",
+            "tipo": "categoria",
+            "descripcion": "Protectores",
             "link": "https://www.stock.com.py/category/769-perfumeria-cuidado-personal-protectore-diarios.aspx"
         },
         {
-            "categoria": "Tampones",
+            "tipo": "categoria",
+            "descripcion": "Tampones",
             "link": "https://www.stock.com.py/category/773-perfumeria-cuidado-personal-tampones.aspx"
         },
         {
-            "categoria": "Toallas Higi\u00e9nicas",
+            "tipo": "categoria",
+            "descripcion": "Toallas Higi\u00e9nicas",
             "link": "https://www.stock.com.py/category/776-perfumeria-cuidado-personal-toallas-higienicas.aspx"
         },
         {
-            "categoria": "Accesorios",
+            "tipo": "categoria",
+            "descripcion": "Accesorios",
             "link": "https://www.stock.com.py/category/734-perfumeria-cosmetica-accesorios-faciales.aspx"
         },
         {
-            "categoria": "Manicura/Pedicuro",
+            "tipo": "categoria",
+            "descripcion": "Manicura/Pedicuro",
             "link": "https://www.stock.com.py/category/735-perfumeria-cosmetica-accesorios-pmanos-y-pies.aspx"
         },
         {
-            "categoria": "Esmalte/Quitaesmalte",
+            "tipo": "categoria",
+            "descripcion": "Esmalte/Quitaesmalte",
             "link": "https://www.stock.com.py/category/736-perfumeria-cosmetica-esmalte.aspx"
         },
         {
-            "categoria": "Maquillajes/Otros",
+            "tipo": "categoria",
+            "descripcion": "Maquillajes/Otros",
             "link": "https://www.stock.com.py/category/737-perfumeria-cosmetica-maquillaje-plabios.aspx"
         }
     ]
