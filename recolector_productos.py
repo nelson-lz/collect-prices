@@ -57,7 +57,7 @@ def capturar_detalles_producto(html_parseado):
 con = datos.sql_connection()
 print(time.time())
 for row in datos.obtener_enlaces_productos(con,50000):
-    if row[0] > 27543:
+    if row[0] > 49250:
         print("Id-del-link: " + str(row[0]))
         recorrer_enlaces_productos(row[3])
 

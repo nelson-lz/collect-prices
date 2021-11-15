@@ -25,6 +25,18 @@ def obtener_enlaces_productos(con, limit=50000):
     rows = cursorObj.fetchall()
     return rows
 
+def insertar_enlace(entity):
+    con = sql_connection()
+    cursorObj = con.execute("INSERT INTO enlace(tipo, descripcion, link, supermercado) VALUES(?,?,?,?)", [entity["tipo"], entity["descripcion"], entity["link"],entity["super"]])
+    con.commit()
+    con.close()
+
+def insertar_producto(entity):
+    con = sql_connection()
+    cursorObj =con.execute("INSERT INTO producto(codigobarra, descripcion, marca, imagen1, supermercado) VALUES(?,?,?,?,?)", [entity["codigobarra"], entity["descripcion"], entity["marca"], entity["imagen1"], entity["super"]])
+    con.commit()
+    con.close()
+
 con = sql_connection()
 
 tabla_de_links(con)
