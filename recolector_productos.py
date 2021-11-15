@@ -9,21 +9,21 @@ sin_marca = 0
 sin_img = 0
 def insertar_producto(entity):
     con =  datos.sql_connection()
-    cursorobj = con.execute("INSERT INTO producto(codigobarra, descripcion, marca, imagen1) VALUES (?, ?, ?, ?)",[entity['codigobarra'], entity['descripcion'], entity['marca'], entity['imagen1']])
+    cursorobj = con.execute("INSERT INTO producto(codigobarra, descripcion, marca, imagen1, supermercado) VALUES (?, ?, ?, ?, ?)",[entity['codigobarra'], entity['descripcion'], entity['marca'], entity['imagen1'], entity['super']])
     con.commit()
     con.close()
 
-def recorrer_enlaces_productos(enlace):
+def recorrer_enlaces_productos(enlace, super):
     req = requests.get(enlace)
     time.sleep(0.123)
     if req.status_code == 200:
         soup = BeautifulSoup(req.text, 'html.parser')
-        capturar_detalles_producto(soup)
+        capturar_detalles_producto(soup, super)
         soup.clear()
     else:
         print('Error al ingresar al enlace del producto')
 
-def capturar_detalles_producto(html_parseado):
+def capturar_detalles_producto(html_parseado, super):
     #TODO validar que todo lo buscado se encuentre y en caso de no encontrarse tratar el error
     try:
         codigobarra = html_parseado.find('div', attrs={'class': 'sku', 'itemprop': 'sku'}).string
@@ -49,19 +49,33 @@ def capturar_detalles_producto(html_parseado):
         "codigobarra": codigobarra,
         "descripcion": descripcion,
         "marca": marca,
-        "imagen1": imagen1
+        "imagen1": imagen1,
+        "super": super
     }
     insertar_producto(arreglo)
-    print(arreglo['descripcion'])
+    print(arreglo['descripcion'].split())
 
 con = datos.sql_connection()
-print(time.time())
-for row in datos.obtener_enlaces_productos(con,50000):
-    if row[0] > 49250:
-        print("Id-del-link: " + str(row[0]))
-        recorrer_enlaces_productos(row[3])
+print(time.asctime(time.localtime(time.time())))
+def recolectar_productos_stock(con):
+    super='stock'
+    for row in datos.obtener_enlaces_productos(con, super, 50000):
+        if row[0] > 49250:
+            print("Id-del-link: " + str(row[0]))
+            recorrer_enlaces_productos(row[3], super)
 
+def recolectar_productos_super6(con):
+    super='super6'
+    for row in datos.obtener_enlaces_productos(con, super, 50000):
+        if row[0] > 49250:
+            print("Id-del-link: " + str(row[0]))
+            recorrer_enlaces_productos(row[3], super)
+
+recolectar_productos_super6(con)
+#recolectar_productos_stock(con)
+con.close()
 print("productos sin cod barra: " + str(sin_codbarra))
 print("productos sin descripcion: " + str(sin_descr))
 print("productos sin marca: " + str(sin_marca))
 print("productos sin imagen: " + str(sin_img))
+print(time.asctime(time.localtime(time.time())))

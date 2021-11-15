@@ -19,9 +19,9 @@ def tabla_productos(con):
     con.commit()
 def cerrar_coneccion(con):
     con.close()
-def obtener_enlaces_productos(con, limit=50000):
+def obtener_enlaces_productos(con, super, limit=50000):
     cursorObj = con.cursor()
-    cursorObj.execute("SELECT * FROM enlace WHERE tipo = 'producto' LIMIT "+str(limit))
+    cursorObj.execute("SELECT * FROM enlace WHERE tipo = 'producto' AND supermercado='" + super +"' LIMIT "+str(limit))
     rows = cursorObj.fetchall()
     return rows
 
