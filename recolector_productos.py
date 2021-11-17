@@ -14,17 +14,20 @@ def insertar_producto(entity):
     con.close()
 
 def recorrer_enlaces_productos(enlace, super):
-    req = requests.get(enlace)
-    time.sleep(0.123)
+    try:
+        req = requests.get(enlace)
+    except:
+        time.sleep(45.45)
+        recorrer_enlaces_productos(enlace, super)
     if req.status_code == 200:
         soup = BeautifulSoup(req.text, 'html.parser')
         capturar_detalles_producto(soup, super)
         soup.clear()
     else:
         print('Error al ingresar al enlace del producto')
+    time.sleep(7.890)
 
 def capturar_detalles_producto(html_parseado, super):
-    #TODO validar que todo lo buscado se encuentre y en caso de no encontrarse tratar el error
     try:
         codigobarra = html_parseado.find('div', attrs={'class': 'sku', 'itemprop': 'sku'}).string
     except:
