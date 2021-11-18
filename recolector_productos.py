@@ -16,15 +16,15 @@ def insertar_producto(entity):
 def recorrer_enlaces_productos(enlace, super):
     try:
         req = requests.get(enlace)
+        if req.status_code == 200:
+            soup = BeautifulSoup(req.text, 'html.parser')
+            capturar_detalles_producto(soup, super)
+            soup.clear()
+        else:
+            print('Error al ingresar al enlace del producto')
     except:
         time.sleep(45.45)
         recorrer_enlaces_productos(enlace, super)
-    if req.status_code == 200:
-        soup = BeautifulSoup(req.text, 'html.parser')
-        capturar_detalles_producto(soup, super)
-        soup.clear()
-    else:
-        print('Error al ingresar al enlace del producto')
     time.sleep(7.890)
 
 def capturar_detalles_producto(html_parseado, super):
@@ -70,7 +70,7 @@ def recolectar_productos_stock(con):
 def recolectar_productos_super6(con):
     super='super6'
     for row in datos.obtener_enlaces_productos(con, super, 50000):
-        if row[0] > 49250:
+        if row[0] > 60583:
             print("Id-del-link: " + str(row[0]))
             recorrer_enlaces_productos(row[3], super)
 

@@ -41,6 +41,7 @@ def recorrer_pagina_categoria(link_cateogrie):
                 break
         else:
             print("Error en el recorrido de las categorias")
+        soup.clear()
     time.sleep(0.125)
 
 

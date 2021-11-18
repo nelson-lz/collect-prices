@@ -11,30 +11,35 @@ enlaces_productos = {}
 enlaces_productos['productos'] = []
 
 def recorrer_links_categorias(link_categoria):
-    for i in range(50):
+    for i in range(150):
         req = requests.get(enlaces_categoria+PAGE_INDEX+(str(i+1)))
         if req.status_code == 200:
             soup = BeautifulSoup(req.text, 'html.parser')
             try:
-                #en este primer paginado siempre hay productos
-                recolectar_links_productos(soup)
-                #aqui verificamos si ha terminado de hacer el paginado, en caso de que ya no
-                #exista mas los botones del paginado ha terminado svg-inline--fa fa-frown fa-w-16 fa-2x my-2
-                soup.find('svg', attrs={'class': 'svg-inline--fa fa-frown fa-w-16 fa-2x my-2'})
-                print("paginando... " + str(i + 1))
+                #aqui verificamos si ha terminado de hacer el paginado, en caso de que
+                #exista svg-inline--fa fa-frown fa-w-16 fa-2x my-2 se termino el paginado
+                if soup.find('svg', attrs={'class': 'svg-inline--fa fa-frown fa-w-16 fa-2x my-2'}) == None:
+                    recolectar_links_productos(soup.find('section', attrs={'id':'filtrados'}))
+                    print("paginando... " + str(i + 1))
+                else:
+                    print("error en el paginado jeje opa el paginado")
+                    break
             except:
-                print("error en el paginado jeje opa el paginado")
+                print("error en:" + link_categoria)
                 break
         else:
             print("Error en el recorrido de las categorias")
-    time.sleep(0.125)
-
-def recolectar_links_productos(html_parseado):
-    for elem in html_parseado.find_all('div', attrs={'class': 'product-item'}):
+        time.sleep(0.789)
+#TODO recolectar directamente los datos del producto
+def recolectar_links_productos(section_products):
+    for elem in section_products.find_all('div', attrs={'class': 'col-lg-2 col-md-3 col-sm-4 col-6'}):
         arreglo_json = {
             "tipo": "producto",
-            "descripcion": elem.h2.a.string,
+            "codigobarra": elem,
+            "descripcion": elem.find('span',attrs={'class': 'articulo-card-descripcion'}),
+            "marca": "",
             "link": elem.h2.a['href'],
+            "imagen1": elem,
             "super": "granvia"
         }
         datos.insertar_enlace(arreglo_json)
